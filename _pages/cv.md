@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 description: Last updated October 8, 2019. 
 ---
-To download a copy of my CV in PDF [click here]( [Isasi_CV.pdf](../assets/pdf/Isasi_CV.pdf) ). 
+To download a copy of my CV in PDF [click here](../assets/pdf/Isasi_CV.pdf). 
 
 ## Education
 
