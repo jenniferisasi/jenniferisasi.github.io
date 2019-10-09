@@ -62,22 +62,19 @@
     {% endif %}
     </span>
   {% endif %}
-
   <span class="links">
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
   {% endif %}
-  </span>
-  <span class="links">
-    {% if entry.url %}
+  {% if entry.url %}
     [<a href="{{ entry.url }}" target="_blank">Access</a>]
     <!-- To show full URL with link enter target="_blank">{{entry.url}}</a>  -->
   {% endif %}
-
+  </span>
+  <span class="links">
   {% if entry.arxiv %}
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
-
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
   {% endif %}
