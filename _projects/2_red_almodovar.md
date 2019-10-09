@@ -24,7 +24,7 @@ Me picó la curiosidad por saber si Penélope Cruz estaría en el centro de la r
 
 Para este experimento primero tomé los datos del "full cast" (reparto completo) de cada una de [las películas de las que Almodóvar ha sido director](https://www.imdb.com/name/nm0000264/?ref_=nv_sr_1?ref_=nv_sr_1#director) de la Base de Datos de Películas de Internet (IMDb). Para ello utilicé el "copia y pega" de toda la vida, pues no se trata de muchas películas. Extraje los datos de 25 películas (con algún corto incluido) pues faltan los datos de las primeras creaciones del director. Para algo más amplio conviene extraer los datos mediante un algoritmo de *webscrapping*. Puesto que IMDb tiene un *record* para cada persona en su base, no fue necesario realizar una limpieza de datos normalizando los nombres del reparto ni de las películas (cuyos títulos sí traduje) pues el sistema no da base a variaciones ortográficas o problemas similares que ocurren en otros sistemas.
 
-Primero, creé [una tabla (luego CSV) con las columnas año, película, reparto y personaje](https://github.com/jenniferisasi/jenniferisasi.github.io/tree/master/files/red_almodovar/almodovar_pelis_cast.csv) (esta variable no la he utilizado), lo que me permitió, a su vez, crear un listado de características de [cada persona con su género](https://github.com/jenniferisasi/jenniferisasi.github.io/tree/master/files/red_almodovar/almodovar_reparto.csv). 
+Primero, creé [una tabla (luego CSV) con las columnas año, película, reparto y personaje](../assets/datasets/red_almodovar/almodovar_pelis_cast.csv) (esta variable no la he utilizado), lo que me permitió, a su vez, crear un listado de características de [cada persona con su género](../assets/datasets/red_almodovar/almodovar_reparto.csv). 
 
 A partir del listado del elenco de cada película, generé un archivo de co-aparición en cada película con un *loop* en R (reciclado de mi tesis). Lo que este código hace es crear un *data frame* estableciendo parejas de un listado. Por ejemplo, de este listado de cuatro personas en la última película
 
@@ -46,7 +46,7 @@ se genera un archivo de dos columnas que, para los propósitos de la red ,se lla
 | Asier Etxeandia    | Nora Navas         |
 | Leonardo Sbaraglia | Nora Navas         |
 
-Este [listado](https://github.com/jenniferisasi/jenniferisasi.github.io/tree/master/files/red_almodovar/almodovar_aristas.csv) indica la co-aparición de dos actores o actrices en una misma película, sin tener en cuenta si son protagonistas, secundarios, terciarios, la cantidad de palabras que dicen en la película, el tiempo que pasan en pantalla, etc. 
+Este [listado](../assets/datasets/red_almodovar/almodovar_aristas.csv) indica la co-aparición de dos actores o actrices en una misma película, sin tener en cuenta si son protagonistas, secundarios, terciarios, la cantidad de palabras que dicen en la película, el tiempo que pasan en pantalla, etc. 
 
 
 
