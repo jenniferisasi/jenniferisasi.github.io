@@ -1,7 +1,6 @@
 ---
 layout: page
 title: publications
-permalink: /_publications/
 description: 
 years: [Forthcoming, 2019, 2018, 2017, 2016]
 ---
