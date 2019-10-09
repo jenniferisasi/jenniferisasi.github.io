@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: Graduated with a PhD in Hispanic Studies.
+date: 2017-12-10
 inline: true
 ---
 
-A simple inline announcement.
+Graduated with a PhD in Hispanic Studies.
+

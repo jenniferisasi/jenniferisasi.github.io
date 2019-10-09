@@ -4,11 +4,12 @@
     height: 250px;
     padding: 10px;
     vertical-align: middle;
-    width: 33.33%;
+    width: 50%;
+    /* change to 33.33% for 3 projects */ 
 
     .thumbnail {
         overflow: hidden;
-        height: 200px;
+        height: 500px;
         width: 100%;
 
         img {
@@ -21,7 +22,7 @@
 
         a {
             float: left;
-            height: 230px;
+            height: 400px;
             position: relative;
             width: 100%;
 
@@ -38,7 +39,7 @@
                 text-align: center;
 
                 h1 {
-                    font-size: 1.5rem;
+                    font-size: 1.3rem;
                     margin: 0;
                 }
 

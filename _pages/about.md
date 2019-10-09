@@ -1,23 +1,24 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Dr.</strong> Jennifer Isasi
+description: <a href="">CLIR Postdoctoral Fellow in Data Curation</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: jisasi.jpg
+  address:
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Dr. Jennifer Isasi is a [CLIR Postdoctoral Fellow in Data Curation in Latin American and Latino/a Studies](https://www.clir.org/fellowships/postdoc/fellowsupdate/) at the University of Texas Libraries. She is contributing to *collections as data* efforts, educational resources, and digital scholarship initiatives at [LLILAS Benson Latin American Studies and Collections](https://llilasbenson.utexas.edu/). She is also working with academic engagement staff, affiliated faculty, the post-custodial archival team, and partners in the United States and Latin America to develop curated data sets, open-access resources that support scholarly and public engagement with digital materials, and to inform the development of forthcoming digital collections. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+She is also a member of the editorial board of the open access journal *Programming Historian*. She contributes to the Spanish-speaking team with translations and editing, and serves as the Communications Manager for the overall board. Driven by her willingness to learn more skills on website creation and managing, Jennifer is also a junior member of the Technical Team. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Isasi holds a Ph.D. in Hispanic Studies with a specialization in Digital Humanities from the University of Nebraska-Lincoln, USA. Her dissertation "Data Mining Possibilities for the Analysis of the Literary Character in the Spanish Novel: The Case of Galdós and the *Episodios nacionales*" (written in Spanish) establishes a computational reading methodology to extract, analyze and visualize literary character-systems or social networks, noting how they reflect novel genres and degrees of historicity that replicate close readings of the novels.
+
+In Nebraska she collaborated as a metadata archivist and researcher in the digital project *Family Letters* and she co-organized the monthly DH Dialogues with her peers in the Digital Humanities Student Association. Prior to her current position, she taught Spanish, Analysis of Communication, and Culture as a teaching assistant for the Dept. of Modern Languages and Literatures at UNL and a lecturer at UNK.
+
+She has a BA in English Philology (2011) from the University of Deusto-Bilbao (Spain), a MA in Hispanic Studies (2013) and a Certificate in Digital Humanities (2015) from the University of Nebraska-Lincoln (USA), and a Certificate on Professional Qualification on Digital Humanities (2015) from the National University of Distance Education (Spain).

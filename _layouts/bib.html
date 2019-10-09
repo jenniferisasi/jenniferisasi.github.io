@@ -47,10 +47,13 @@
         {% endif %}
       {% endfor %}
     </span>
+    <span class="translator"> {% if entry.translator %}
+      Translated by  {{entry.translator}}
+    {% endif %}</span>
 
     <span class="periodical">
     {% if entry.type == "article" %}
-      <em>{{entry.journal}}</em>
+      <em>{{entry.journal}},</em>
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}}</em>
     {% endif %}
@@ -64,12 +67,17 @@
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
   {% endif %}
+  </span>
+  <span class="links">
+    {% if entry.url %}
+    [<a href="{{ entry.url }}" target="_blank">Access</a>]
+    <!-- To show full URL with link enter target="_blank">{{entry.url}}</a>  -->
+  {% endif %}
+
   {% if entry.arxiv %}
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
-  {% if entry.html %}
-    [<a href="{{ entry.html }}" target="_blank">HTML</a>]
-  {% endif %}
+
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
   {% endif %}
