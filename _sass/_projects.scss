@@ -1,7 +1,7 @@
 .project {
     box-sizing: border-box;
     float: left;
-    height: 300px;
+    height: 250px;
     padding: 10px;
     vertical-align: middle;
     width: 33.33%;
@@ -9,14 +9,14 @@
 
     .thumbnail {
         overflow: hidden;
-        height: 300px;
+        height: 200px;
         width: 100%;
 
         img {
             height: auto;
             position: relative;
-                left: -75%;
-                top: -75%;
+                left: -100%;
+                top: -100%;
             width: 500px;
         }
 
@@ -35,7 +35,7 @@
                 right: 0;
                 background: rgba(0,0,0,0.4);
                 color: $grey-color-light;
-                padding: 30px;
+                padding: 50px;
                 text-align: center;
 
                 h1 {
