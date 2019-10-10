@@ -9,7 +9,7 @@
 
     .thumbnail {
         overflow: hidden;
-        height: 200px;
+        height: 300px;
         width: 100%;
 
         img {
@@ -35,7 +35,7 @@
                 right: 0;
                 background: rgba(0,0,0,0.4);
                 color: $grey-color-light;
-                padding: 50px;
+                padding: 30px;
                 text-align: center;
 
                 h1 {
