@@ -15,8 +15,8 @@
         img {
             height: auto;
             position: relative;
-                left: 50%;
-                top: 50%;
+                left: -50%;
+                top: -50%;
             width: 500px;
         }
 
@@ -39,7 +39,7 @@
                 text-align: center;
 
                 h1 {
-                    font-size: 1.3rem;
+                    font-size: 1.2rem;
                     margin: 0;
                 }
 

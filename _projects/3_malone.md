@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Visualizing History: The Malone Community Center"
+title: "Visualizing History"
 description: An account of my first collaborative public digital history project
 img: /assets/img/post_malone/malone_logo.png
 tags: 
