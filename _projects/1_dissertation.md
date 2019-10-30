@@ -8,6 +8,9 @@ img: /assets/img/dissertation/figure_6.png
 
 This is the summary I prepared to defend my dissertation:  "Possibilities for the Digital Data Mining for the Analysis of the Literary Characters in the Spanish Novel: The Case of Galdós' *National Episodes*", written in Spanish, which I passed succesfully in November of 2017.
 
+<img src="/assets/img/dissertation/isasi_networks.png" alt="Collection of networks of the Episodios Nacionales"
+	title="National Episodes character network poster" width="100%" height="100%" />
+
 ### Main goal
 
 To create a pipeline for extracting and analyzing character networks in novels written in Spanish.
@@ -144,6 +147,5 @@ The potential of this type of studies for the search and analysis of patterns po
 The most interesting and complicated future study has to do with the Galdosian world view through the representation of society in networks. Researchers from different disciplines have pointed out the great influence that Benito Pérez Galdós had on his contemporary readers both when perceiving themselves as well as perceiving the society in which they were integrated. Therefore, it will be de rigueur to develop a method with more detail of how to analyze the society presented in line with the work of historians and sociologists who have used the work of Galdós as a documentary source to try to understand the Spanish society of the XIX. 
 
 Other studies that could be carried out based on the methodology developed here have to do with a study of space in relation to society present in the Galdosian work, a comparison with the rest of the author's work, a major study of the Spanish narrative of the XIX and, at some point, integrate a study of the system of the characters of Galdós with that of other authors influenced by him (Unamuno, Azorín, Cela, Chirbes, Correa, etc.). In the same vein, it would be of great interest for the historian of literature to obtain the patterns of the characters' system throughout the history of the novel in Spanish to notice an evolution of both the character and the synecdoche of the human being as well as the genres narratives.
-
 
 To see the rest of the visualizations not here, please [download this PDF](jenniferisasi.github.io/assets/files/Isasi_Dissertation-summary).  
