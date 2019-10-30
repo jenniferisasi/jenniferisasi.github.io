@@ -11,6 +11,8 @@ This is the summary I prepared to defend my dissertation:  "Possibilities for th
 <img src="/assets/img/dissertation/isasi_networks.png" alt="Collection of networks of the Episodios Nacionales"
 	title="National Episodes character network poster" width="100%" height="100%" />
 
+[Poster in PNG here.](/assets/img/dissertation/isasi_networks.png) [Do not print withtout permission]
+
 ### Main goal
 
 To create a pipeline for extracting and analyzing character networks in novels written in Spanish.
