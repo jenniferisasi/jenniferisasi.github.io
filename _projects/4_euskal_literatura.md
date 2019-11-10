@@ -49,16 +49,17 @@ A 10 de noviembre de 2019 (fecha en que he realizado este mapa) la función de e
 
 
 
-Para saber más sobre la euskal literatura en traducción, puedes consultar las sigueintes referencias: 
+Para saber más sobre la euskal literatura en traducción, puedes consultar las siguientes referencias: 
 
-Auzmendi, Lurdes. "El reconocimiento de la traducción literaria en lengua vasca en España". XXXIII *Encuentros de Escritores y Críticos en Verines Creadores en la sombra. La traducción literaria en la actualidad*, 2017
+- Auzmendi, Lurdes. "El reconocimiento de la traducción literaria en lengua vasca en España". XXXIII *Encuentros de Escritores y Críticos en Verines Creadores en la sombra. La traducción literaria en la actualidad*, 2017
 
-López Gaseni, José Manuel. "Literatura traducida." *Portal de Literatura Vasca*. http://www.basqueliterature.com/es/basque/historia/itzulia 
+- López Gaseni, José Manuel. "Literatura traducida." *Portal de Literatura Vasca*. http://www.basqueliterature.com/es/basque/historia/itzulia 
 
-López Gaseni, Jose Manuel (2000) *Euskarara itzulitako haur eta gazte literatura: funtzioak, eraginak eta itzulpen-estrategiak*. Bilbao: Universidad del País Vasco.
+- López Gaseni, Jose Manuel (2000) *Euskarara itzulitako haur eta gazte literatura: funtzioak, eraginak eta itzulpen-estrategiak*. Bilbao: Universidad del País Vasco.
 
-Manterola Agirrezabalaga, Elizabete. 2014. «Una mirada hacia la traducción literaria del euskera al castellano». *Hermeneus: Revista de la Facultad de Traducción e Interpretación de Soria*, n. 16: 177–208.
+- Manterola Agirrezabalaga, Elizabete. 2014. «Una mirada hacia la traducción literaria del euskera al castellano». *Hermeneus: Revista de la Facultad de Traducción e Interpretación de Soria*, n. 16: 177–208.
 
-—. 2014. *La literatura vasca traducida*. Bern/New York: Peter Lang.
+- —. 2014. *La literatura vasca traducida*. Bern/New York: Peter Lang.
 
-Pérez Isasi, Santiago. La literatura vasca en el contexto de los Estudios Ibéricos: Historiografía y traducción. *1616: Anuario de Literatura Comparada*, 4, 2014, pp. 107-126.
+- Pérez Isasi, Santiago. La literatura vasca en el contexto de los Estudios Ibéricos: Historiografía y traducción. *1616: Anuario de Literatura Comparada*, 4, 2014, pp. 107-126.
+
