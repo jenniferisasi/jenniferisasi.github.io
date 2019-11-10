@@ -10,7 +10,7 @@ tags:
 - humanitate digitalak
 ---
 
-La Universidad del País Vasco ofrece, en abierto, un catálogo de las traducciones de la literatura en euskera (o vasco) a otros idiomas recopilado por Elizabete Manterola hacia 2012 para su tesis. La base de datos recoge 1.595 entradas en total, con datos como el título y autor/a original de la obra, su fecha de publicación, editoriales, traductores, idioma de la traducción, etc. Se trata, por tanto, de un corpus muy rico que permite explorar al interesado en la literatura en euskera bastantes variables. 
+La Universidad del País Vasco ofrece, en abierto, un [catálogo de las traducciones de la literatura en euskera](https://www.ehu.eus/ehg/eli/?z=bila&m=osorik) a otros idiomas recopilado por Elizabete Manterola hacia 2012 para su tesis. La base de datos recoge 1.595 entradas en total, con datos como el título y autor/a original de la obra, su fecha de publicación, editoriales, traductores, idioma de la traducción, etc. Se trata, por tanto, de un corpus muy rico que permite explorar al interesado en la literatura en euskera bastantes variables. 
 
 Yo, por curiosidad, decidí realizar unas visualizaciones para ver la extensión de la literatura vasca por el mundo, así como la red de autores y traductores que se ha formado a lo largo de los años. Para ello, he ampliado la base de datos con cuatro columnas de coordenadas (la latitud y longitud del lugar de publicación original y las mismas para el lugar de publicación de la traducción). 
 
@@ -20,7 +20,7 @@ A vista de pájaro podemos observar que la literatura vasca ha llegado a muchos 
 
 
 
-<img src="/assets/img/euskal_literatura/euskal-lit_2.png" alt="Visualización de las traducciones de literatura vasca a otros idiomas/países en un mapa"  title="Lugares de traducción de la literatura vasca"  width="50%" height="50%" />
+<img src="/assets/img/euskal_literatura/euskal-lit_2.png" alt="Visualización de las traducciones de literatura vasca a otros idiomas/países en un mapa"  title="Lugares de traducción de la literatura vasca"  width="80%" height="80%" />
 
 
 
@@ -28,22 +28,21 @@ Al acercarnos más al panorama europeo, observamos la gran cantidad de idiomas a
 
 
 
-<img src="/assets/img/euskal_literatura/euskal-lit_1.png" alt="Visualización de las traducciones de literatura vasca a otros idiomas/países en Europa"  title="Traducción de la literatura vasca en Europa"  width="50%" height="50%" />
+<img src="/assets/img/euskal_literatura/euskal-lit_1.png" alt="Visualización de las traducciones de literatura vasca a otros idiomas/países en Europa"  title="Traducción de la literatura vasca en Europa"  width="80%" height="80%" />
 
 Y ¿quiénes son los autores más traducidos? No es sorpresa que destaquen Bernardo Atxaga,  Mariasun Landa Etxebeste, Kirmen Uribe o Piedad Ateka. 
 
-<img src="/assets/img/euskal_literatura/euskal-lit_3.png" alt="Visualización del número de traducciones por autor/a en Europa"  title="Traducciones por autor/a en Europa"  width="50%" height="50%" />
+<img src="/assets/img/euskal_literatura/euskal-lit_3.png" alt="Visualización del número de traducciones por autor/a en Europa"  title="Traducciones por autor/a en Europa"  width="80%" height="80%" />
 
 Kepler también nos permite ver la evolución de nuestra red de traducciones a lo largo del tiempo. En este caso, y como es normal por la trayectoria de la literatura en euskera y la historia del País Vasco en general, el número de traducciones ha ido aumentando hacia finales de la década de los 90 y, sobre todo, a partir del año 2000. 
 
-<iframe src="https://dr.jenniferisasi.com/assets/img/euskal_literatura/euskal_literatura.mov" width="100%" heigth="100%" > </iframe>
-
+<iframe src="https://dr.jenniferisasi.com/assets/img/euskal_literatura/euskal_literatura.mov" width="50%" heigth="100%" > </iframe>
 
 Una visualización geográfica nos permite observar la expansión de la literatura por el planeta. No obstante, ello invisibiliza la labor de autores y traductores en tanto que sus nombres no aparecen - se pueden mostrar pero no aportan nada más que una gran cantidad de letras que impiden su lectura. Para observar quién traduce a quién, y cuánto, una visualización de red es mucho más adecuada. Así, vemos que Bernardo Atxaga es el más traducido según nuestros datos y, curiosamente, se traduce al castellano a sí mismo (línea rosa junto a su nodo). 
 
 
 
-<img src="/assets/img/euskal_literatura/euskal-lit_4.png" alt="Visualización de la red de autores y traductores"  title="Red de autores y traductores de literatura en euskera"  width="50%" height="50%" />
+<img src="/assets/img/euskal_literatura/euskal-lit_4.png" alt="Visualización de la red de autores y traductores"  title="Red de autores y traductores de literatura en euskera"  width="80%" height="80%" />
 
 
 
