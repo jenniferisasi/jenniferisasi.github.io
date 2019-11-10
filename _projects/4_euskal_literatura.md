@@ -16,35 +16,34 @@ Yo, por curiosidad, decidí realizar unas visualizaciones para ver la extensión
 
 Estos son los resultados visualizados en la plataforma [kepler.gl](https://kepler.gl/demo): 
 
-A vista de pájaro podemos observar que la literatura vasca ha llegado a muchos puntos del planeta y en varios idiomas. En la siguiente captura de pantalla vemos que el lugar de mayor producción de originales (en tonos tierra) es el País Vasco, pero también destaca Reno, en Nevada, Estados Unidos, en su publicación y exportación de obras en euskera hacia España, Italia y Rusia. 
+A vista de pájaro podemos observar que la literatura vasca ha llegado a muchos puntos del planeta y en varios idiomas. En la siguiente captura de pantalla vemos que el lugar de mayor producción de originales (en tonos tierra) es el País Vasco, pero también destaca Reno, en Nevada, Estados Unidos, en su publicación y exportación de obras en euskera hacia España, Italia y Rusia.
 
-![euskal-lit_2](/Users/jenniferisasi/Documents/GitHub/jenniferisasi.github.io/assets/img/euskal_literatura/euskal-lit_2.png)
+
+
+<img src="/assets/img/euskal_literatura/euskal-lit_2.png" alt="Visualización de las traducciones de literatura vasca a otros idiomas/países en un mapa"  title="Lugares de traducción de la literatura vasca"  width="50%" height="50%" />
 
 
 
 Al acercarnos más al panorama europeo, observamos la gran cantidad de idiomas a las que se ha traducido la literatura vasca por su distribución a muchos países en Europa y varias comunidades autónomas dentro de la península.   
 
-![euskal-lit_1](/Users/jenniferisasi/Documents/GitHub/jenniferisasi.github.io/assets/img/euskal_literatura/euskal-lit_1.png)
 
 
+<img src="/assets/img/euskal_literatura/euskal-lit_1.png" alt="Visualización de las traducciones de literatura vasca a otros idiomas/países en Europa"  title="Traducción de la literatura vasca en Europa"  width="50%" height="50%" />
 
 Y ¿quiénes son los autores más traducidos? No es sorpresa que destaquen Bernardo Atxaga,  Mariasun Landa Etxebeste, Kirmen Uribe o Piedad Ateka. 
 
-![euskal-lit_3](/Users/jenniferisasi/Documents/GitHub/jenniferisasi.github.io/assets/img/euskal_literatura/euskal-lit_3.png)
-
-
+<img src="/assets/img/euskal_literatura/euskal-lit_3.png" alt="Visualización del número de traducciones por autor/a en Europa"  title="Traducciones por autor/a en Europa"  width="50%" height="50%" />
 
 Kepler también nos permite ver la evolución de nuestra red de traducciones a lo largo del tiempo. En este caso, y como es normal por la trayectoria de la literatura en euskera y la historia del País Vasco en general, el número de traducciones ha ido aumentando hacia finales de la década de los 90 y, sobre todo, a partir del año 2000. 
 
 <iframe src="https://dr.jenniferisasi.com/assets/img/euskal_literatura/euskal_literatura.mov" width="100%" heigth="100%" > </iframe>
 
 
-
 Una visualización geográfica nos permite observar la expansión de la literatura por el planeta. No obstante, ello invisibiliza la labor de autores y traductores en tanto que sus nombres no aparecen - se pueden mostrar pero no aportan nada más que una gran cantidad de letras que impiden su lectura. Para observar quién traduce a quién, y cuánto, una visualización de red es mucho más adecuada. Así, vemos que Bernardo Atxaga es el más traducido según nuestros datos y, curiosamente, se traduce al castellano a sí mismo (línea rosa junto a su nodo). 
 
 
 
-![euskal-lit_4](/Users/jenniferisasi/Documents/GitHub/jenniferisasi.github.io/assets/img/euskal_literatura/euskal-lit_4.png)
+<img src="/assets/img/euskal_literatura/euskal-lit_4.png" alt="Visualización de la red de autores y traductores"  title="Red de autores y traductores de literatura en euskera"  width="50%" height="50%" />
 
 
 
