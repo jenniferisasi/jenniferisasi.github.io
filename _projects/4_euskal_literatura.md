@@ -10,5 +10,5 @@ tags:
 - humanitate digitalak
 ---
 
-<iframe src="https://dr.jenniferisasi.com/assets/img/euskal_literatura/euskal-lit-map"></iframe>
+<iframe src="https://dr.jenniferisasi.com/assets/img/euskal_literatura/euskal-lit-map" width=100% heigth=100% > </iframe>
 
