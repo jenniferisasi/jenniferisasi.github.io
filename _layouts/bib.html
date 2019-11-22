@@ -62,6 +62,17 @@
     {% endif %}
     </span>
   {% endif %}
+
+  <span class="collection">
+    {% if entry.type == "incollection" %}
+      <em>{{entry.booktitle}},</em>
+    {% endif %}
+    {% if entry.year %}
+      {{entry.year}}
+    {% endif %}
+    </span>
+  {% endif %}
+
   <span class="links">
   {% if entry.abstract %}
     [<a class="abstract">Abs</a>]
