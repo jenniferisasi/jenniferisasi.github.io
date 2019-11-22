@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Last updated October 8, 2019. 
+description: Last updated November 22, 2019. 
 ---
 To download a copy of my CV in PDF [click here](../assets/pdf/Isasi_CV.pdf). 
 
@@ -39,6 +39,8 @@ Dissertation title: “Posibilidades de la minería de datos digital para el an�
 
 ## Publications
 
+`2019`    Isasi, J. and M. Iruskieta “Humanitate Digitalak eta haien ikerketaren nondik norakoak.” Book chapter in *IKTak eta konpetentzia digitalak hezkuntzan*, UPV/EHU, pp. 307-322.
+
 `2018`	Isasi, J., J. Avelar and I. Velázquez. “From Jesusita to Jane: Personal names, self-presentation and digital preservation of Mexican American experience in the US Midwest.” *Revista de Humanidades Digitales*, Vol. 2, 2018, pp. 49-76.
 
 `2017`	Isasi, J. “Acercamiento al análisis del sistema de los personajes en la narrativa escrita en español: el caso de Zumalacárregui y Mendizábal de Pérez Galdós.” *Caracteres: Estudios culturales y críticos de la esfera digital*, Vol. 6 (2), 2017, pp. 107-137.
@@ -46,8 +48,6 @@ Dissertation title: “Posibilidades de la minería de datos digital para el an�
 `2016`	Isasi, J, L. Lorenzo, N. Puente. *Exploring Spain: Un recorrido por la historia y la cultura de España*. Kendall Hunt, 2016.
 
 ### In preparation
-
-Isasi, J. and M. Iruskieta “Humanitate Digitalak eta ikerketa ezberdinen azterketa” Book chapter in *Humanitate digitalak*, UPV/EHU (accepted)
 
 “El análisis digital de las emociones (sentiment analysis) aplicado a la obra de Pérez Galdós.”
 
@@ -71,7 +71,7 @@ Isasi, J. and M. Iruskieta “Humanitate Digitalak eta ikerketa ezberdinen azter
 
 `Present` *[The Programming Historian en español](https://programminghistorian.org/es/)*. Member of the Editorial Team in Spanish, the Technical Team and the Editorial Board. Editor and translator of peer-reviewed tutorials on digital tools, techniques, and workflows that facilitate research and teaching. programminghistorian.org/es/
 
-`2016-2017` *Family Letters and the Hispanic/Latino Heritage Collection*. Metadata Curator and Research Assistant. Directed by Dr. I. Velázquez and the Center for the Digital Research in the Humanities, University of Nebraska-Lincoln, Lincoln, NE. mediacommons.unl.edu/luna/servlet/UNL~111~111
+`2016-2017` [Family Letters/Cartas a la familia](https://familyletters.unl.edu) and the *[Hispanic/Latino Heritage Collection](https://mediacommons.unl.edu/luna/servlet/UNL~111~111)*. Metadata Curator and Research Assistant. Directed by Dr. I. Velázquez and the Center for the Digital Research in the Humanities, University of Nebraska-Lincoln, Lincoln, NE. mediacommons.unl.edu/luna/servlet/UNL~111~111
 
 `2017` *Modernist Text Digitization Project*. Archivist and Metadata Curator. Directed by Dr. J.E. González, University of Nebraska-Lincoln, Lincoln, NE.
 
