@@ -8,7 +8,7 @@ Primary instructor of the course unless indicated otherwise.
 
 ### Workshops
 
-`2019` “Multilingual Sentiment Analysis with R.” University of Texas Libraries’ “Digital Humanities Workshops @ PCL” Series. The University of Texas at Austin, Austin, TX, February 13
+`2019`  “Multilingual Sentiment Analysis with R.” University of Texas Libraries’ “Digital Humanities Workshops @ PCL” Series. The University of Texas at Austin, Austin, TX, February 13
 
 `2018` 	“Topic Modeling Violence in Guatemala,” co-taught with J. Ortiz-Baco. Mellon-NEH funded project “Post-Custodial Archival Development and Digital Scholarship: Learning from Latin America.” The University of Texas at Austin, Austin, TX, September 26
 
@@ -16,7 +16,7 @@ Primary instructor of the course unless indicated otherwise.
 
 `2017`	“Minimal Archiving” with S. Camerone. DH Bootcamp 2017. University of Nebraska Lincoln, Lincoln, NE, April 6
 
-`2016`		“Visualization Basics. A Workshop.” DH Bootcamp 2016. University of Nebraska Lincoln, Lincoln, NE, April 7
+`2016`	“Visualization Basics. A Workshop.” DH Bootcamp 2016. University of Nebraska Lincoln, Lincoln, NE, April 7
 
 `2015`	“Literary Text Analysis with R: A Beginners Workshop.” Creighton University, Omaha, NE, April 7
 
@@ -30,9 +30,11 @@ Primary instructor of the course unless indicated otherwise.
 
 *Co-Instructor for Digital Scholarship, Undergraduate Courses* 
 
-`2018`   Spanish Colonialism in the Indigenous Borderlands, by Kelly McDonough, Ph.D.
+`2018`   Spanish Colonialism in the Indigenous Borderlands, by Kelly McDonough, Ph.D. 
 
-`2018`   Rethinking the Conquest of Mexico, by Susan Deans-Smith 
+> [Three week lesson plan to Onodo - a network visualization tool](https://repositories.lib.utexas.edu/bitstream/handle/2152/74818/MWF_Lesson_Plan_Onodo.pdf?sequence=3&isAllowed=y)
+
+`2018`   Rethinking the Conquest of Mexico, by Susan Deans-Smith, Ph.D. 
 
 ### University of Nebraska at Kearney
 
