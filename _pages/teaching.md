@@ -32,7 +32,7 @@ Primary instructor of the course unless indicated otherwise.
 
 `2018`   Spanish Colonialism in the Indigenous Borderlands, by Kelly McDonough, Ph.D. 
 
-> [Three week lesson plan to Onodo - a network visualization tool](https://repositories.lib.utexas.edu/bitstream/handle/2152/74818/MWF_Lesson_Plan_Onodo.pdf?sequence=3&isAllowed=y)
+[Three week lesson plan to Onodo - a network visualization tool](https://repositories.lib.utexas.edu/bitstream/handle/2152/74818/MWF_Lesson_Plan_Onodo.pdf?sequence=3&isAllowed=y)
 
 `2018`   Rethinking the Conquest of Mexico, by Susan Deans-Smith, Ph.D. 
 
