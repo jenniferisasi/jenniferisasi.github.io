@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Last updated February 27, 2020. 
+description: Last updated March 1, 2020. 
 ---
 To download a copy of my CV in PDF [click here](../assets/pdf/Isasi_CV.pdf). 
 
