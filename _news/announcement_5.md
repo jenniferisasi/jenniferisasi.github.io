@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grant to organize symposium on postcustodial practices.
-date: 2020-02-26
+date: 2020-02-27
 inline: false
 ---
 
