@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Last updated November 22, 2019. 
+description: Last updated February 27, 2020. 
 ---
 To download a copy of my CV in PDF [click here](../assets/pdf/Isasi_CV.pdf). 
 
@@ -21,9 +21,12 @@ Dissertation title: “Posibilidades de la minería de datos digital para el an�
 
 ## Work experience
 
-`Present`	CLIR/DLF Postdoctoral Fellow in Data Curation for Latin American and Latina/o Studies, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin
+`2020-Present` Assistant Research Professor of Digital Scholarship and Director of the Digital Liberal Arts
+Research Initiative, College of Liberal Arts, The Pennsylvania State University
 
-`Present `   Editor, Communications Manager, Junior Technical Team Member, *The Programming Historian* 
+`2018-Present `   Editor, Communications Manager, Junior Technical Team Member, *The Programming Historian* 
+
+`2018-2020`	CLIR/DLF Postdoctoral Fellow in Data Curation for Latin American and Latina/o Studies, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin
 
 `2018`		Summer Visiting Instructor of Spanish, Centro Internacional de Español, University of Deusto-Bilbao, Spain (Summer)
 
@@ -49,6 +52,9 @@ Dissertation title: “Posibilidades de la minería de datos digital para el an�
 
 ### In preparation
 
+Isasi, J. “Sentiment Analysis in Translation: A pilot experiment for multilingual DH contexts.” (submitted
+to Digital Frontiers 2019 Conference Proceedings)
+
 “El análisis digital de las emociones (sentiment analysis) aplicado a la obra de Pérez Galdós.”
 
 ### Translations
@@ -61,11 +67,13 @@ Dissertation title: “Posibilidades de la minería de datos digital para el an�
 
 `2018` Taryn Dewar, "Datos tabulares en R", traducido por Jennifer Isasi, *The Programming Historian en español 2* (2018), https://programminghistorian.org/es/lecciones/datos-tabulares-en-r.
 
-## Grants
+## Grants and Awards
 
-`2019-2020`   Project Leader. “Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open- Access, Technological Needs, and Institutional Sustainability,” Mellon funded Council on Library and Information Resources Microgrant
+`2019-2020`   Project Leader. “Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open- Access, Technological Needs, and Institutional Sustainability,” Mellon funded Council on Library and Information Resources Microgrant. Award: $20,000
 
+`2019 ` Project collaborator. "Mejor iniciativa formativa desarrollada durante el año 2018," [I Edición de los Premios HDH 2018](http://humanidadesdigitaleshispanicas.es/resolucion-convocatoria-i-edicion-premios-hdh/), Asociación de Humanidades Digitales Hispánicas.
 
+`2018` Project collaborator. "Best DH Blog Post or Series of Posts ," a [Digital Humanities Awards](http://dhawards.org/dhawards2017/results/).  
 
 ## Digital Projects
 
@@ -81,7 +89,7 @@ Dissertation title: “Posibilidades de la minería de datos digital para el an�
 
 ## Conference Presentations
 
-`2019` "The Programming Historian en español: de la traducción a la creación de recursos educativos abiertos" with A. Rojas Castro. IV Congreso Internacional de la Asociación de Humanidades Digitales Hispánicas, Universidad de Toledo, Spain, October 24
+`2019` "*The Programming Historian en español*: de la traducción a la creación de recursos educativos abiertos" with A. Rojas Castro. IV Congreso Internacional de la Asociación de Humanidades Digitales Hispánicas, Universidad de Toledo, Spain, October 24
 
 `2019`  "Sentiment Analysis Methods in Translation." Digital Frontiers 2019: Tear Down the Walls, The University of Texas at Austin, TX, September 26-28 
 
@@ -257,7 +265,7 @@ Primary instructor of the course unless indicated otherwise.
 
 `2013–2017`	Coordinator and Liaison, Semester in Bilbao and Summer in Bilbao, Centro Internacional de Español
 
-## Grants and Fellowships
+## Fellowships
 
 `2019-2020` *Mellon Funded CLIR Microgrant* to organize “Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open- Access, Technological Needs, and Institutional Sustainability,” Council on Library and Information Resources
 
