@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Dr.</strong> Jennifer Isasi
-description: <a href="">CLIR Postdoctoral Fellow in Data Curation</a>.
+description: <a href="">Assistant Research Professor of Digital Scholarship</a>.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-Dr. Jennifer Isasi is an Assistant Research Professor of Digital Scholarship at The Pennsylvania State University. She is the Assistant Director of the Office of Digital Pedagogy and Scholarship and Director of the Digital Liberal Arts Research Initiative. This position in progress will establish a research methodologies community at PSU to articulate and integrate digital research in faculty and students projects in the humanities and social sciences. She also collaborates with the the Department of [Research Informatics and Publishing](https://libraries.psu.edu/about/departments/research-informatics-and-publishing) at PSU Libraries to participate in collaborative workshops, run DH grants and assist research in general.  
+Dr. Jennifer Isasi is an Assistant Research Professor of Digital Scholarship at The Pennsylvania State University. She is the Assistant Director of the [Office of Digital Pedagogy and Scholarship](https://digital.la.psu.edu) and Director of the Digital Liberal Arts Research Initiative. This position in progress will establish a research methodologies community at PSU to articulate and integrate digital research in faculty and students projects in the humanities and social sciences. She also collaborates with the the Department of [Research Informatics and Publishing](https://libraries.psu.edu/about/departments/research-informatics-and-publishing) at PSU Libraries to participate in collaborative workshops, run DH grants and assist research in general.  
 
 Jennifer is also a member of the editorial board of the open access journal *[Programming Historian](https://programminghistorian.org)*. She contributes to the Spanish-speaking team with translations and editing, and serves as the Communications Manager for the overall board. Driven by her willingness to learn more skills on website creation and managing, Jennifer is also a junior member of the Technical Team. 
 
