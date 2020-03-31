@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-Hello
+Hello a *ver*
 
 Dr. Jennifer Isasi is a [CLIR Postdoctoral Fellow in Data Curation in Latin American and Latino/a Studies](https://www.clir.org/fellowships/postdoc/fellowsupdate/)  at the University of Texas Libraries. She is contributing to *collections as data* efforts, educational resources, and digital scholarship initiatives at [LLILAS Benson Latin American Studies and Collections](https://llilasbenson.utexas.edu/). She is also working with academic engagement staff, affiliated faculty, the post-custodial archival team, and partners in the United States and Latin America to develop curated data sets, open-access resources that support scholarly and public engagement with digital materials, and to inform the development of forthcoming digital collections. 
 
