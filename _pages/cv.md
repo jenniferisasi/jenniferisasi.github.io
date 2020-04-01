@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Last updated March 1, 2020. 
+description: Last updated March 31, 2020. 
 ---
 To download a copy of my CV in PDF [click here](../assets/pdf/Isasi_CV.pdf). 
 
@@ -52,8 +52,9 @@ Research Initiative, College of Liberal Arts, The Pennsylvania State University
 
 ### In preparation
 
-Isasi, J. “Sentiment Analysis in Translation: A pilot experiment for multilingual DH contexts.” (submitted
-to Digital Frontiers 2019 Conference Proceedings)
+Isasi, J. “Sentiment Analysis in Translation: A pilot experiment for multilingual DH contexts.” (submitted to Digital Frontiers 2019 Conference Proceedings)
+
+Lincoln, M., J. Isasi, F.D. Laramée, S. Melton, A. Rojas Castro, “Relocating Complexity: *The Programming Historian* and Multilingual Static Site Generation” (abstract accepted for *DHQ*)
 
 “El análisis digital de las emociones (sentiment analysis) aplicado a la obra de Pérez Galdós.”
 
