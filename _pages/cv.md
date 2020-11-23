@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Last updated March 31, 2020. 
+description: Last updated November 23, 2020. 
 ---
 To download a copy of my CV in PDF [click here](../assets/pdf/Isasi_CV.pdf). 
 
@@ -21,10 +21,9 @@ Dissertation title: “Posibilidades de la minería de datos digital para el an�
 
 ## Work experience
 
-`2020-Present` Assistant Research Professor of Digital Scholarship and Director of the Digital Liberal Arts
-Research Initiative, College of Liberal Arts, The Pennsylvania State University
+`2020-Present` Assistant Research Professor of Digital Scholarship and Director of the Digital Liberal Arts Research Initiative and Assistant Director of the Office of Digital Pedagogy and Scholarship, College of Liberal Arts, The Pennsylvania State University
 
-`2018-Present `   Editor, Communications Manager, Junior Technical Team Member, *The Programming Historian* 
+`2018-Present `   Editor, Communications Manager, Junior Technical Team Member, *The Programming Historian* Journal
 
 `2018-2020`	CLIR/DLF Postdoctoral Fellow in Data Curation for Latin American and Latina/o Studies, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin
 
@@ -42,6 +41,8 @@ Research Initiative, College of Liberal Arts, The Pennsylvania State University
 
 ## Publications
 
+`upcoming` Lincoln, M., J. Isasi, F.D. Laramée, S. Melton, A. Rojas Castro, “Relocating Complexity: *The Programming Historian* and Multilingual Static Site Generation” 
+
 `2019`    Isasi, J. and M. Iruskieta “Humanitate Digitalak eta haien ikerketaren nondik norakoak.” Book chapter in *IKTak eta konpetentzia digitalak hezkuntzan*, UPV/EHU, pp. 307-322.
 
 `2018`	Isasi, J., J. Avelar and I. Velázquez. “From Jesusita to Jane: Personal names, self-presentation and digital preservation of Mexican American experience in the US Midwest.” *Revista de Humanidades Digitales*, Vol. 2, 2018, pp. 49-76.
@@ -52,25 +53,25 @@ Research Initiative, College of Liberal Arts, The Pennsylvania State University
 
 ### In preparation
 
+Isasi, J. y A. Rojas Castro. “Sin equivalencia: Una reflexión sobre la traducción al español de recursos educativos abiertos.” (abstract accepted for *Hispania*) 
+
 Isasi, J. “Sentiment Analysis in Translation: A pilot experiment for multilingual DH contexts.” (submitted to Digital Frontiers 2019 Conference Proceedings)
-
-Lincoln, M., J. Isasi, F.D. Laramée, S. Melton, A. Rojas Castro, “Relocating Complexity: *The Programming Historian* and Multilingual Static Site Generation” (abstract accepted for *DHQ*)
-
-“El análisis digital de las emociones (sentiment analysis) aplicado a la obra de Pérez Galdós.”
 
 ### Translations
 
-`2019` Alex Brey, "Análisis de redes temporal en R", traducido por Jennifer Isasi, *The Programming Historian en español 3* (2019), https://programminghistorian.org/es/lecciones/analisis-temporal-red.
+`2020` St. Hubert, H, J. Isasi, N. Fuller Medina and M. Montañez. “Reporte de simposio y recomendaciones: Un texto preparado como respuesta al simposio Evaluación de la capacidad de los socios de América Latina y el Caribe: Un simposio sobre acceso abierto, necesidades tecnológicas y sostenibilidad institucional.” Published by Council on Library and Information Resources (CLIR)
 
-`2018` Nabeel Siddiqui, "Administración de datos en R", traducido por Jennifer Isasi, *The Programming Historian en español 2* (2018), https://programminghistorian.org/es/lecciones/administracion-de-datos-en-r.
+`2019` Alex Brey. "Análisis de redes temporal en R", traducido por Jennifer Isasi, *The Programming Historian en español 3* (2019), https://programminghistorian.org/es/lecciones/analisis-temporal-red.
 
-`2018` Taylor Arnold y Lauren Tilton, "Procesamiento básico de textos en R", traducido por Jennifer Isasi, *The Programming Historian en español 2* (2018), https://programminghistorian.org/es/lecciones/procesamiento-basico-de-textos-en-r.
+`2018` Nabeel Siddiqui. "Administración de datos en R", traducido por Jennifer Isasi, *The Programming Historian en español 2* (2018), https://programminghistorian.org/es/lecciones/administracion-de-datos-en-r.
 
-`2018` Taryn Dewar, "Datos tabulares en R", traducido por Jennifer Isasi, *The Programming Historian en español 2* (2018), https://programminghistorian.org/es/lecciones/datos-tabulares-en-r.
+`2018` Taylor Arnold y Lauren Tilton. "Procesamiento básico de textos en R", traducido por Jennifer Isasi, *The Programming Historian en español 2* (2018), https://programminghistorian.org/es/lecciones/procesamiento-basico-de-textos-en-r.
+
+`2018` Taryn Dewar. "Datos tabulares en R", traducido por Jennifer Isasi, *The Programming Historian en español 2* (2018), https://programminghistorian.org/es/lecciones/datos-tabulares-en-r.
 
 ## Grants and Awards
 
-`2019-2020`   Project Leader. “Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open- Access, Technological Needs, and Institutional Sustainability,” Mellon funded Council on Library and Information Resources Microgrant. Award: $20,000
+`2019-2020`   Project Leader. “Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open- Access, Technological Needs, and Institutional Sustainability,” Mellon funded Council on Library and Information Resources Microgrant. Award: $25,000
 
 `2019 ` Project collaborator. "Mejor iniciativa formativa desarrollada durante el año 2018," [I Edición de los Premios HDH 2018](http://humanidadesdigitaleshispanicas.es/resolucion-convocatoria-i-edicion-premios-hdh/), Asociación de Humanidades Digitales Hispánicas.
 
@@ -89,6 +90,8 @@ Lincoln, M., J. Isasi, F.D. Laramée, S. Melton, A. Rojas Castro, “Relocating
 `2013` *The Vocabulary of Politics in Spanish during the Age of Absolutism*. Archivist and Research Assistant. Directed by Dr. O. Pereira-Zazo (UNL), Dr. J. Valero (UWEC) and the Center for Digital Research in the Humanities, University of Nebraska-Lincoln, Lincoln, NE.
 
 ## Conference Presentations
+
+`2020` “Distinción de géneros literarios a través de la visualización de redes de personajes: El caso de diez Episodios nacionales de Pérez Galdós.” Poster at *NoviembreHD* by the Asociación Argentina de Humanidades Digitales, virtual, November 5
 
 `2019` "*The Programming Historian en español*: de la traducción a la creación de recursos educativos abiertos" with A. Rojas Castro. IV Congreso Internacional de la Asociación de Humanidades Digitales Hispánicas, Universidad de Toledo, Spain, October 24
 
@@ -136,6 +139,8 @@ Lincoln, M., J. Isasi, F.D. Laramée, S. Melton, A. Rojas Castro, “Relocating
 
 ### Invited Talks
 
+`2020`  “A pilot experiment for multilingual DH contexts: Sentiment Analysis in Translation.” *New Voices in DH* at the OU Humanities Forum, Oklahoma City, OK, Oct. 22-23
+
 `2019`  “A Name Entity Recognition and Extraction Method for Mid-Distance Reading in Spanish*.*” *Digital Humanities Beyond Modern English: Computational Approaches to Premodern and Non-Western Literature, Part I*, Hanover, NH, April 24-25. 
 
 `2017` “Towards a Methodology for the Analysis of Character Systems/Networks in the Spanish Novel: The case of Pérez Galdós’ *Zumalacárregui* and *Mendizábal.*” *Works in Progress* & *DH Dialogues*, University of Nebraska-Lincoln, Lincoln, NE, September 18 
@@ -149,6 +154,8 @@ Lincoln, M., J. Isasi, F.D. Laramée, S. Melton, A. Rojas Castro, “Relocating
 Primary instructor of the course unless indicated otherwise.
 
 ### Workshops
+
+`2020` “On-the-Fly Text Analysis with Voyant Tools.” *Reading from a Distance* series at Penn State University, October 7
 
 `2019` “Multilingual Sentiment Analysis with R.” University of Texas Libraries’ “Digital Humanities Workshops @ PCL” Series. The University of Texas at Austin, Austin, TX, February 13
 
@@ -168,7 +175,7 @@ Primary instructor of the course unless indicated otherwise.
 
 *Teaching Appointment*, *Graduate Course*
 
-`2020 `  Digital Critical Analysis of Latin American Culture 
+~~`2020 `  Digital Critical Analysis of Latin American Culture~~ 
 
 *Co-Instructor for Digital Scholarship, Undergraduate Courses* 
 
@@ -228,15 +235,35 @@ Primary instructor of the course unless indicated otherwise.
 
 ### Manuscript and Proposal Review
 
+`2020`      *Journal of Cultural Analytics*
+
+`2020`     *Interdisciplinary Science Reviews*
+
+`2020`     *Unbound: A Journal of Digital Scholarship*
+
 `2019`	*Digital Scholarship in the Humanities*
 
 `2018`	*Revista de Humanidades Digitales*
 
+### Program Review
+
+`2020`     CLIR Postdoctoral Fellowship
+
 ### Abstract Review
+
+`2020`     Digital Humanities 2020
 
 `2019`	Digital Frontiers 2019 Conference 
 
 `2019`	Association for Computers and the Humanities 2019 Conference
+
+### University of Texas-Austin
+
+`2018-2020`  Digital Scholarship Consultation for LLILAS Benson Latin American Studies and Collections
+
+`2019`      Leader, Digitization and digital scholarship training at *Museo de la Palabra y la Imagen*, San Salvador, El Salvador, June 10-13
+
+`2019`     Organizer, *Chicana Activists & Indigenous Languages* *Wikipedia Edit-a-thon*, UT Libraries
 
 ### University of Nebraska-Lincoln
 
@@ -268,8 +295,6 @@ Primary instructor of the course unless indicated otherwise.
 
 ## Fellowships
 
-`2019-2020` *Mellon Funded CLIR Microgrant* to organize “Capacity Assessment of Latin American and Caribbean Partners: A Symposium about Open- Access, Technological Needs, and Institutional Sustainability,” Council on Library and Information Resources
-
 `2018–2020` Council on Library and Information Resources Postdoctoral Fellowship Program
 
 `2016-2017` Graduate Research Assistantship for Ph.D. Studies, University of Nebraska-Lincoln
@@ -279,6 +304,8 @@ Primary instructor of the course unless indicated otherwise.
 `2013-2016` Graduate Teaching Assistantship for Ph.D. Studies, University of Nebraska-Lincoln
 
 `2011-2013` Graduate Teaching Assistantship for M.A. Studies, University of Nebraska-Lincoln
+
+
 
 ## Languages
 
