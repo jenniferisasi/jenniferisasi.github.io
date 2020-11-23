@@ -10,7 +10,7 @@ This talk starts with observations about general and academic multilingual conte
 
 
 
-```markdown
-[![A video of my talk]({assets/img/Pilot_Experiment_Multilingual_DH_img.png})]({https://mymedia.ou.edu/media/Jennifer+IsasiA+A+Pilot+Experiment+for+Multilingual+DH+ContextsA+Sentiment+Analysis+in+Translation+%28DH%40OU5+Digital+Humanities+Symposium%29/1_f1bz07ku/189387873} "A pilot experiment for multilingual DH contexts: Sentiment Analysis in Translation")
-```
+You can watch ["A pilot experiment for multilingual DH contexts: Sentiment Analysis in Translation"](https://mymedia.ou.edu/media/Jennifer+IsasiA+A+Pilot+Experiment+for+Multilingual+DH+ContextsA+Sentiment+Analysis+in+Translation+%28DH%40OU5+Digital+Humanities+Symposium%29/1_f1bz07ku/189387873) on the repository of videos of the [Arts and Humanities Forum](https://mymedia.ou.edu/channel/channelid/189387873) at OU.
+
+
 
