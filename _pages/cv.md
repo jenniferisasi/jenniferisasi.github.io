@@ -135,8 +135,6 @@ Isasi, J. “Sentiment Analysis in Translation: A pilot experiment for multiling
 
 `2012`	“Resultado de la ruptura de la realidad en el personaje de Abelarda en *Miau* de Benito Pérez Galdós.” 2012 Mid-America Conference on Hispanic Literature. University of Nebraska-Lincoln, Lincoln, NE, October 14
 
-
-
 ### Invited Talks
 
 `2020`  “A pilot experiment for multilingual DH contexts: Sentiment Analysis in Translation.” *New Voices in DH* at the OU Humanities Forum, Oklahoma City, OK, Oct. 22-23
@@ -147,17 +145,15 @@ Isasi, J. “Sentiment Analysis in Translation: A pilot experiment for multiling
 
 `2014` “A Quantitative Approach to Character Space.” *Digital Humanities Modern Languages & Literatures Colloquium Series,* University of Nebraska-Lincoln, Lincoln, NE, April 23 
 
-
-
 ## Teaching Experience
 
 Primary instructor of the course unless indicated otherwise.
 
 ### Workshops
 
-`2020` “On-the-Fly Text Analysis with Voyant Tools.” *Reading from a Distance* series at Penn State University, October 7
+`2020` 	“On-the-Fly Text Analysis with Voyant Tools.” *Reading from a Distance* series at Penn State University, October 7
 
-`2019` “Multilingual Sentiment Analysis with R.” University of Texas Libraries’ “Digital Humanities Workshops @ PCL” Series. The University of Texas at Austin, Austin, TX, February 13
+`2019` 	“Multilingual Sentiment Analysis with R.” University of Texas Libraries’ “Digital Humanities Workshops @ PCL” Series. The University of Texas at Austin, Austin, TX, February 13
 
 `2018` 	“Topic Modeling Violence in Guatemala,” co-taught with J. Ortiz-Baco. Mellon-NEH funded project “Post-Custodial Archival Development and Digital Scholarship: Learning from Latin America.” The University of Texas at Austin, Austin, TX, September 26
 
@@ -165,7 +161,7 @@ Primary instructor of the course unless indicated otherwise.
 
 `2017`	“Minimal Archiving” with S. Camerone. DH Bootcamp 2017. University of Nebraska Lincoln, Lincoln, NE, April 6
 
-`2016`		“Visualization Basics. A Workshop.” DH Bootcamp 2016. University of Nebraska Lincoln, Lincoln, NE, April 7
+`2016`	“Visualization Basics. A Workshop.” DH Bootcamp 2016. University of Nebraska Lincoln, Lincoln, NE, April 7
 
 `2015`	“Literary Text Analysis with R: A Beginners Workshop.” Creighton University, Omaha, NE, April 7
 
@@ -229,8 +225,6 @@ Primary instructor of the course unless indicated otherwise.
 
 `2018, 2016, 2015`	Spanish II or A2 (Summer)
 
-
-
 ## Service and leadership
 
 ### Manuscript and Proposal Review
@@ -249,11 +243,13 @@ Primary instructor of the course unless indicated otherwise.
 
 ### Program Review
 
-`2020`     CLIR Postdoctoral Fellowship
+`2020`	Research and Development Grant, Division of Preservation & Access, National Endowment for the Humanities
+
+`2020`    CLIR Postdoctoral Fellowship
 
 ### Abstract Review
 
-`2020`     Digital Humanities 2020
+`2020`    Digital Humanities 2020
 
 `2019`	Digital Frontiers 2019 Conference 
 
@@ -306,8 +302,6 @@ Primary instructor of the course unless indicated otherwise.
 `2013-2016` Graduate Teaching Assistantship for Ph.D. Studies, University of Nebraska-Lincoln
 
 `2011-2013` Graduate Teaching Assistantship for M.A. Studies, University of Nebraska-Lincoln
-
-
 
 ## Languages
 
