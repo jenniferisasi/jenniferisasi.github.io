@@ -237,6 +237,8 @@ Primary instructor of the course unless indicated otherwise.
 
 `2020`      *Journal of Cultural Analytics*
 
+`2020` 	*Revista de Humanidades Digitales*
+
 `2020`     *Interdisciplinary Science Reviews*
 
 `2020`     *Unbound: A Journal of Digital Scholarship*
