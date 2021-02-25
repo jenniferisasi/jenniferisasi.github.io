@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Jennifer Isasi | Sentiment Analysis Methods in Translation</title>
+  <meta name="description" content="A digital academic portolio. 
+">
+
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/blog/2019/talk-df/">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    
+    <span class="site-title">
+        
+        <strong>Jennifer</strong> Isasi
+    </span>
+    
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+      <div class="trigger">
+        <!-- About -->
+        <a class="page-link" href="/">about</a>
+
+        <!-- Blog -->
+        <a class="page-link" href="/blog/">blog</a>
+
+        <!-- Pages -->
+        
+          
+        
+          
+            <a class="page-link" href="/cv/">CV</a>
+          
+        
+          
+        
+          
+        
+          
+            <a class="page-link" href="/projects/">digital projects</a>
+          
+        
+          
+            <a class="page-link" href="/publications/">publications</a>
+          
+        
+          
+            <a class="page-link" href="/teaching/">teaching</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+        <!-- CV link -->
+        <!-- <a class="page-link" href="/assets/pdf/CV.pdf">vitae</a> -->
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Sentiment Analysis Methods in Translation</h1>
+    <p class="post-meta">September 26, 2019</p>
+  </header>
+
+  <article class="post-content">
+    <p>A method traditionally applied to product review and marketing, namely, sentiment analysis or opinion mining, has recently been adopted to conduct computational analysis of literary texts (Jockers). In principle, this methodology consist of assigning a positive or negative valence derived from a “bag of words” to sentences or words in order to study the progress of sentiments throughout the text. This represents the passage of time and, in novels, the narrative plot.</p>
+
+<p>As with most digital analysis methodologies and experiments run in recent years, these sentiment analysis dictionaries, workflows, and corpora to test results have been developed and conducted in English. In a few occasions, the research even includes works translated into English (Underwood 2019). In most cases, the use of these tools in other languages requires adaptation (Fradejas Rueda).</p>
+
+<p>In this talk, I will show the results of a three-dimention mid-distance reading of literary texts in Spanish using the <a href="https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html">Syuzhet Package</a> in R. First, I present the analysis of the original text with the available version of the NRC sentiment dictionary. Later, I will run the original, English dictionary in the same work in its published translated version as well as on a (non-reviewed) machine translated version. As a point of contrast, I will run the same test with a text in English with its human and machine translations into Spanish. Preliminary results conducted on <em>La gaviota</em> (1849) by Böhl de Faber, <em>Pepita Jiménez</em> (1874) by J. Valera, <em>The Swam of Villamorta</em> (1885) by E. Pardo Bazán, <em>Frankenstein</em> (1832) by M. Shelley and <em>David Copperfield</em> (1850) by Dickens shows that results on a micro-level change but do not affect the overall or macro-level narrative plot result. <em>Marianela</em> (1878) by B. Pérez Galdós, <em>The Froth</em> (1890) by A. Palacio Valdés, <em>One Hundred Years of Solitud</em> (1967) by G. García Márquez or <em>The Handmaid’s Tale</em> (1985) by M. Atwood, however, show distinct results on a micro and distant level in both two languages, bringing up questions such as: Is it sufficient to generate raw translations of datasets in English in order to conduct the same tests in Spanish or should we generate our own datasets and methods? What effect has norms on punctuation have on this type of text analysis? How do informal expressions that call for clearly different vocabulary to express the same emotion affect the results of this method? As a consequence, one can ask, how good is the idea of using translations when testing methods in English?</p>
+
+<p>The ultimate goal of this presentation is, thus, twofold. On the one hand, I show the possibilities of sentiment analysis for literary works in Spanish. Most importantly, however, I show the need to break the tools before trusting them: I investigate the implications of relying on translation for text analysis, by studying the difference in results in using a translated version of the sentiment dictionary to original works, as well as using the original dictionary to works translated from other languages.</p>
+
+<p>You can read my [unrevised] <a href="https://dr.jenniferisasi.com/assets/pdf/Isasi_Talk_DF19.pdf">talk</a> together with the <a href="https://dr.jenniferisasi.com/assets/pdf/Isasi_Presentation_DF19.pdf">slides</a>.</p>
+
+
+  </article>
+
+  
+
+</div>
+
+      </div>
+    </div>
+
+    <footer>
+
+  <div class="wrapper">
+    &copy; Copyright 2021 Jennifer Isasi.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+  </div>
+
+</footer>
+
+
+    <!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="/assets/css/academicons.min.css">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXXXXXX', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>

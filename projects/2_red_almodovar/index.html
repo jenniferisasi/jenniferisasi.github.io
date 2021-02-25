@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Jennifer Isasi | El elenco de Pedro Almodóvar</title>
+  <meta name="description" content="A digital academic portolio. 
+">
+
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/projects/2_red_almodovar/">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    
+    <span class="site-title">
+        
+        <strong>Jennifer</strong> Isasi
+    </span>
+    
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+      <div class="trigger">
+        <!-- About -->
+        <a class="page-link" href="/">about</a>
+
+        <!-- Blog -->
+        <a class="page-link" href="/blog/">blog</a>
+
+        <!-- Pages -->
+        
+          
+        
+          
+            <a class="page-link" href="/cv/">CV</a>
+          
+        
+          
+        
+          
+        
+          
+            <a class="page-link" href="/projects/">digital projects</a>
+          
+        
+          
+            <a class="page-link" href="/publications/">publications</a>
+          
+        
+          
+            <a class="page-link" href="/teaching/">teaching</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+
+        <!-- CV link -->
+        <!-- <a class="page-link" href="/assets/pdf/CV.pdf">vitae</a> -->
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">El elenco de Pedro Almodóvar</h1>
+    <h5 class="post-description">Acercamiento a la red de actores y actrices de las películas de Pedro Almodovar</h5>
+  </header>
+
+  <article class="post-content El elenco de Pedro Almodóvar clearfix">
+    <p>Pedro Almodóvar ha vuelto a la gran pantalla este año con <em>Dolor y gloria</em> y todo parece indicar que está siendo un éxito. Yo no la he visto todavía pero, he de confesar, al ver el trailer pensé ¡otra vez los mismos! Banderas, Pé, Cecilia Roth, Asier Etxeandia… algo que se ve muy bien en el propio cartel de la película:</p>
+
+<p><img src="/assets/img/post_almodovar/dolor-y-gloria.jpeg" alt="Cartel de la película Dolor y gloria de Almodóvar" title="Cartel de la película 'Dolor y gloria' de Almodóvar" width="50%" height="50%" /></p>
+
+<p>Me picó la curiosidad por saber si Penélope Cruz estaría en el centro de la red de actrices y actores que Almodóvar suele contratar para sus películas.</p>
+
+<p>¡Manos a la  obra!</p>
+
+<h2 id="extracción-de-datos-de-reparto">Extracción de datos de reparto</h2>
+
+<p>Para este experimento primero tomé los datos del “full cast” (reparto completo) de cada una de <a href="https://www.imdb.com/name/nm0000264/?ref_=nv_sr_1?ref_=nv_sr_1#director">las películas de las que Almodóvar ha sido director</a> de la Base de Datos de Películas de Internet (IMDb). Para ello utilicé el “copia y pega” de toda la vida, pues no se trata de muchas películas. Extraje los datos de 25 películas (con algún corto incluido) pues faltan los datos de las primeras creaciones del director. Para algo más amplio conviene extraer los datos mediante un algoritmo de <em>webscrapping</em>. Puesto que IMDb tiene un <em>record</em> para cada persona en su base, no fue necesario realizar una limpieza de datos normalizando los nombres del reparto ni de las películas (cuyos títulos sí traduje) pues el sistema no da base a variaciones ortográficas o problemas similares que ocurren en otros sistemas.</p>
+
+<p>Primero, creé <a href="https://dr.jenniferisasi.com/assets/datasets/almodovar_pelis_cast.csv">una tabla (luego CSV) con las columnas año, película, reparto y personaje</a> (esta variable no la he utilizado), lo que me permitió, a su vez, crear un listado de características de <a href="https://dr.jenniferisasi.com/assets/datasets/almodovar_reparto.csv">cada persona con su género</a>.</p>
+
+<p>A partir del listado del elenco de cada película, generé un archivo de co-aparición en cada película con un <em>loop</em> en R (reciclado de mi tesis). Lo que este código hace es crear un <em>data frame</em> estableciendo parejas de un listado. Por ejemplo, de este listado de cuatro personas en la última película</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Dolor y gloria</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Antonio Banderas</td>
+    </tr>
+    <tr>
+      <td>Asier Etxeandia</td>
+    </tr>
+    <tr>
+      <td>Leonardo Sbaraglia</td>
+    </tr>
+    <tr>
+      <td>Nora Navas</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>se genera un archivo de dos columnas que, para los propósitos de la red ,se llaman “source” (emisor) y “target” (receptor):</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Source</th>
+      <th>Target</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Antonio Banderas</td>
+      <td>Asier Etxeandia</td>
+    </tr>
+    <tr>
+      <td>Antonio Banderas</td>
+      <td>Leonardo Sbaraglia</td>
+    </tr>
+    <tr>
+      <td>Antonio Banderas</td>
+      <td>Nora Navas</td>
+    </tr>
+    <tr>
+      <td>Asier Etxeandia</td>
+      <td>Leonardo Sbaraglia</td>
+    </tr>
+    <tr>
+      <td>Asier Etxeandia</td>
+      <td>Nora Navas</td>
+    </tr>
+    <tr>
+      <td>Leonardo Sbaraglia</td>
+      <td>Nora Navas</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Este <a href="../assets/datasets/almodovar_aristas.csv">listado</a> indica la co-aparición de dos actores o actrices en una misma película, sin tener en cuenta si son protagonistas, secundarios, terciarios, la cantidad de palabras que dicen en la película, el tiempo que pasan en pantalla, etc.</p>
+
+<h2 id="análisis-de-red-en-gephi">Análisis de red en Gephi</h2>
+
+<p>El siguiente paso para realizar un análisis de la red de reparto de Almodóvar es cargar los datos de nodos y aristas en Gephi. La red completa del elenco de Almodóvar tiene, así, en total, 529 personas o nodos con 13214 conexiones o aristas, es decir, que aparecen en la misma película entre todos ellos 13214 veces.</p>
+
+<p>En término del género del reparto (datos no contrastados, por lo que puede haber algún error), la red está dividida de forma equilibrada con un 51.42% de hombres y 48.58% de mujeres. Sin embargo, si tenemos en cuenta el grado de conectividad en orden descendiente, hay más actrices que actores, es decir, que Almodóvar repite más con su reparto femenino que masculino. La intuición y la memoria me dicen que esto ya lo sabíamos.</p>
+
+<p>Por supuesto, Antonio Banderas está en el top 10 de más conectados con un total de 215 conexiones (o <em>degree</em> en el análisis de redes), con Penélope Cruz algo más alejada en la lista con 160 conexiones, lo cual la coloca todavía en un puesto prominente. Cecilia Roth es la número 2 en el listado ordenado por grado, con 275 conexiones.</p>
+
+<p>El análisis también nos indica que se generan 11 comunidades. Esto quiere decir, explicado de forma sencilla, que de la forma en que se repite el reparto en el total de 25 películas hay 11 grupos que podemos distinguir puesto que aparecen juntos en mayor medida o más veces. Es un número más alto de lo que me esperaba, la verdad, teniendo en cuenta que Almodóvar suele repitir a sus favoritas (por decirlo de alguna manera). Ahora bien, el número de personas por comunidad sí varía significativamente entre comunidades.</p>
+
+<p><img src="/assets/img/post_almodovar/almodovar_mod.png" alt="Gráfico de distribución del tamaño de cada comunidad según el altoritmo de modularidad de Gephi" title="Distribución del tamaño de cada comunidad de Almodóvar" width="100%" height="100%" /></p>
+
+<p>Gephi genera estos datos de forma rápida y nos permite extraerlos en formato de valores separados por comas para poder realizar futuros análisis o simplemente estudiar los datos de otra forma. Por ejemplo, podemos generar un gráfico con la distribución del grado de centralidad en otro programa a partir de dichos datos.</p>
+
+<p><img src="/assets/img/post_almodovar/almodovar_degree_graph.png" alt="Gráfico de distribución del grado de centralidad por reparto" title="Distribución del grado de centralidad de todo el reparto en la red de Almodóvar" width="100%" height="100%" /></p>
+
+<p>Ahora bien, ¿quién o quiénes quedan en el centro de esta red de reparto? ¿Cómo quedan distribuidos el resto de actores y actrices? Hay alguna incidencia en la distribución de la red según el género? Veamos.</p>
+
+<h2 id="visualización-de-red-en-gephi">Visualización de red en Gephi</h2>
+
+<p>Para generar la visualización de la red almodovariana, he utilizado el algoritmo ForceAtlas2 con una escala de 250 puntos, con la gravedad “activada” con un grado de 0.8 (esto hace que todos los nodos de la red queden más cercanas al centro, lo cual es muy útil si tienes nodos no conectados a la red mayor). Además, he estudiado diferentes variables según el grado de conectividad y el posicionamiento del reparto en la red, su género, la formación de comunidades, y la situación del reparto por películas.</p>
+
+<h3 id="grado-de-distribución-y-género">Grado de distribución y género</h3>
+
+<p>Pues bien, estudiando los parámetros de grado de centralidad en los nodos y un mayor peso en las aristas, vemos que el actor céntrico, más conectado, es el hermano menor y productor habitual en las películas de Pedro: Agustín Almodóvar. Este cuenta con un grado de conexión de 496 puntos, y es que resulta que aparece en las 22 de las 25 películas de este conjunto de datos.</p>
+
+<p>Cercanas al centro por su aparición continuada en las películas de Almodóvar también están Cecilia Roth (275 conexiones, 8 películas), Chus Lampreave (254 conexiones, 10 películas), Carlos García Cambero (246 conexiones, 7 películas), Esther García, Marisa Paredes, Antonio Banderas y Fernando Iglesias.</p>
+
+<p><img src="/assets/img/post_almodovar/almodovar_degree.png" alt="Visualización de la red del reparto de Almodóvar con medidas de centralidad y peso de las aristas" title="Red del reparto de Almodóvar con medidas de centralidad y peso de las aristas" width="100%" height="100%" /></p>
+
+<p>Penélope Cruz queda bastante alejada del centro, digamos en un segundo nivel aunque aparece en 8 filmes pero con un menor número de actores y actrices. Su grado de conectividad está cercano al del propio Pedro Almodóvar, la famosa Carmen Machi, Julieta Serrano y Lola Dueñas.</p>
+
+<p>Ya hemos dicho que el reparto de Almodóvar presenta una división bastante equilibrada en cuanto al número de mujeres y hombres con los que cuenta en sus películas, y que las mujeres ocupan un mayor grado de conectividad en la red. Podemos visualizar los datos para comprobar que, efectivamente, hay una distribución igual de ambos géneros, pues no pesa uno más que otro en el centro ni la periferia de la red.</p>
+
+<p><img src="/assets/img/post_almodovar/almodovar_degree_gender.png" alt="Visualización de la red del reparto de Almodóvar con medidas de centralidad y peso de las aristas por género" title="Red del reparto de Almodóvar con medidas de centralidad y peso de las aristas por género" width="100%" height="100%" /></p>
+
+<h3 id="las-comunidades-del-reparto">Las comunidades del reparto</h3>
+
+<p>El algoritmo de modularidad de Gephi ha determinado que del total de 25 películas, el reparto queda distribuido en 11 comunidades bastante bien definidas. Ahora bien, casi el 60% del total del reparto, esto es, de 529 actores y actrices del elenco de Almodóvar, quedan agrupados en 3 comunidades. Curiosamente, la comunidad con el mayor número de personas más conectadas entre ellas queda en la periferia de la red (arriba a la derecha, en color ocre), aunque su elenco tiene un alto grado de conectividad y quedan, por tanto, al centro. Es en esta comunidad en la que Cecilia Roth y Antonio Banderas quedan unidos.</p>
+
+<p><img src="/assets/img/post_almodovar/almodovar_degree_mod.png" alt="Visualización de la red del reparto de Almodóvar con medidas de centralidad y división por comunidades" title="Red del reparto de Almodóvar con medidas de centralidad y su división por comunidades" width="100%" height="100%" /></p>
+
+<p>En la segunda comunidad con un mayor porcentaje del reparto es donde aparecen otras de las actrices favoritas del director: Carmen Maura y Rossy de Palma, junto con Agustín Almodóvar y Chus Lampreave. Esta comunidad queda bastante centrada en la red (centro y abajo derecha, en rosa). Penélope Cruz tiene su propio grupo de co-apariciones según este algoritmo, con Esther García, Fernando Iglesias, Carmen Machi y Susi Sánchez, entre otros.</p>
+
+<p>Como veremos a continuación, la distribución del reparto por comunidades queda en mayor medida relacionado con el reparto de cada película.</p>
+
+<h3 id="visualización-de-la-red-por-película">Visualización de la red por película</h3>
+
+<p>Al haber añadido en mi base de datos la información de cada película en las aristas o conexiones, también he podido visualizar la misma red pero por película. Esto añade otro tipo de información con la que no contábamos en las visualizaciones previas. Primero, por ejemplo, podemos saber que la película <em>Hable con ella</em> (2002) cuenta con el 26.77% del elenco puesto que es la que cuenta con un mayor número de actores y actrices (85) en el primer listado extraido de IMDb. La particularidad del reparto de esta película es que no se repite demasiado en otras películas, de ahí que en el análisis de modularidad éste forme su propia comunidad (izquierda, en azul oscuro).</p>
+
+<p>Vemos en las aristas o líneas que salen del nodo de Agustín Almodóvar que, por supuesto, aparece en muchas de las películas de la red, al igual que Antonio Banderas, Cecilia Roth, Chus Lampreave y Penélope Cruz, de nuevo. Como era de esperar, la localización en el centro de la red de los actores y actrices indica su participación en más películas y, al contrario, en la periferia y al borde tenemos a los que repiten menos.</p>
+
+<p><img src="/assets/img/post_almodovar/almodovar_degree_film.png" alt="Visualización de la red del reparto de Almodóvar con medidas de centralidad y división por película" title="Red del reparto de Almodóvar con medidas de centralidad y su división por película" width="100%" height="100%" /></p>
+
+<h3 id="la-red-de-almodóvar-a-través-del-tiempo">La red de Almodóvar a través del tiempo</h3>
+
+<p>Finalmente, otra cosa que podemos estudiar gracias a los datos obtenidos de la base de datos de internet y añadidos en mi tabla, es la evolución de la red de Almodóvar por año de estreno de cada película. Aprovecho los mismos colores o distribución de la red con cada película (imagen anterior).</p>
+
+<p>Para no generar una imagen estática e individual con cada año, he creado un pequeño video que muestra únicamente las conexiones o las aristas de la película en tiempo cronológico. Sin ser ninguna sorpresa, se ve claramente que Almodóvar no contó con el elenco que será posteriormente central en su carrera (y la red) para su primer filme, de 1976. Lógico.</p>
+
+<p>En la segunda película (1980) , no obstante, el número del reparto se amplía y, además, incluye ya a la que serán dos de sus favoritas hasta sus películas más recientes, Cecilia Roth y Carmen Maura.</p>
+
+<p><img src="/assets/img/post_almodovar/red_almodovar.gif" alt="Gif de la red de Almodóvar" title="Red del reparto de Almodóvar por película" width="100%" height="100%" /></p>
+
+<h2 id="conclusión">Conclusión</h2>
+
+<p>Penélope Cruz no es el centro de <em>este</em> universo de Almodóvar. Y, sin embargo, yo no puedo separar a Penélope Cruz y Almodóvar en mi mente (acordaos de ese famoso momento en que Pe grita: Pedrooo!). He aprendido, además, que el hermano pequeño de Pedro aparece en casi todas sus películas y, la verdad, no lo sabía.</p>
+
+<p>Sea como fuere, y como se puede comprobar, en un pequeño momento de inspiración y curiosidad he podido generar una red y un estudio bastante completo (dentro de mis posibilidades) del reparto de Pedro Almodóvar gracias a la extración y visualización de datos.</p>
+
+<p>Ahora me toca ver <em>Dolor y gloria</em> para cerrar, como espectadora, el ciclo de la trilogía de deseo y ficción que ésta forma con <em>La ley del deseo</em> (1987) y <em>La mala educación</em> (2004).</p>
+
+  </article>
+
+  
+
+  
+
+</div>
+
+      </div>
+    </div>
+
+    <footer>
+
+  <div class="wrapper">
+    &copy; Copyright 2021 Jennifer Isasi.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+  </div>
+
+</footer>
+
+
+    <!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="/assets/css/academicons.min.css">
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXXXXXX', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+  </body>
+
+</html>
