@@ -6,7 +6,7 @@ subtitle: Assistant Research Professor of Digital Scholarship
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jisasi-bio.png
   image_circular: false # crops the image to make it circular
   more_info:
 
