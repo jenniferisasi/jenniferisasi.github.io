@@ -82,29 +82,16 @@
       year: 2013
       description: No longer available. Archivist and Research Assistant. Directed by Dr. Oscar Pereira-Zazo (UNL), Dr. José Valero (UWEC)
       
-- title: Grants and Awards
+- title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 1921
       items:
-        - Project collaborator. “Best DH Training Materials” category of the Digital Humanities Awards for Programming Historian
-    - year: 2021
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - Project collaborator. “Open Content” category award in the Open Publishing Award 2021 by the Coko Foundation for Programming Historian.
-    - year: 2021 
-      items:
-        - The Crymble Awards. Acknowledgment.
-    - year: 2019
-      items:
-        - Project Leader. Capacity Assessment of Latin American and Caribbean Partners. A Symposium about Open- Access, Technological Needs, and Institutional Sustainability
-        - Mellon funded Council on Library and Information Resources Microgrant
-        - $25,000
-    - year: 2019
-      items: 
-        - Project collaborator. Mejor iniciativa formativa desarrollada durante el año 2018,I Edición de los Premios HDH 2018, Asociación de Humanidades Digitales Hispánicas
-    - year: 2018
-      items:
-        - Project collaborator. “Best DH Blog Post or Series of Posts” category of the Digital Humanities Awards
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
