@@ -17,17 +17,22 @@
       description:
         - Dissertation title “Posibilidades de la minería de datos digital para el análisis del personaje literario en la novela española. El caso de Galdós y los Episodios nacionales.”
         - Supervised by Dr. Óscar Pereira Zazo
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+    - title: Graduate Certificate on Digital Humanities
+      institution: University of Nebraska-Lincoln, USA
+      year: 2015
+    - title: Certificate on Professional Qualification on Digital Humanities
+      institution: Laboratorio de Investigación de Humanidades Digitales, UNED, Spain
+      year: 2015
+    - title: M.A. in Hispanic Studies
+      institution: University of Nebraska-Lincoln, USA
+      year: 2013
+    - title: B.A. in English Philology
+      institution: University of Deusto-Bilbao, Spain
+      year: 2011
+    - title: Certificate on Modern Languages and Technologies
+      institution: University of Deusto-Bilbao, Spain
+      year: 2011
+    
 - title: Experience
   type: time_table
   contents:
