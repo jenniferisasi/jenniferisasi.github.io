@@ -91,12 +91,6 @@ By degree centrality, modularity and historic/real or fictional attributes of ch
 
 These results point in the direction of noting a higher historicism (in terms of political events and characters [big names]) in framework novels, and a higher degree of daily life history (as Galdós called it, ‘integral history’) in the *bildungsroman*.
 
-<div class="img_row" >
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/dissertation/figure_3.png" alt="Zumalacarregui's social network" title=">Zumalacarregui's social network with degree value and division into historical (red) and fictional characters (green)"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/dissertation/figure_4.png" alt="Mendizabal's social network" title="Mendizabal's social network with degree value and division into historical (red) and fictional characters (green)"/>
-  </div>
-
-
 
 
 
