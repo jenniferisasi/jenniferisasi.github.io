@@ -12,11 +12,11 @@
   type: time_table
   contents:
     - title: PhD in Hispanic Studies
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: University of Nebraska-Lincoln, USA
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Dissertation title “Posibilidades de la minería de datos digital para el análisis del personaje literario en la novela española. El caso de Galdós y los Episodios nacionales.”
+        - Supervised by Dr. Óscar Pereira Zazo
         - title: Description 3.
           contents:
             - Sub-description 1.
