@@ -63,12 +63,12 @@
       institution: Dept. Modern Languages & Literatures, University of Nebraska-Lincoln, USA
       year: 2011 - 2016
 
-- title: Open Source Projects
+- title: Digital Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="http://programminghistorian.org">The Programming Historian en español</a>
+      year: 2018-now
+      description: Member of the Editorial Team in Spanish, the Technical Team and the Editorial Board. Editor and translator of peer-reviewed tutorials on digital tools, techniques, and workflows that facilitate research and teaching.
 
 - title: Honors and Awards
   type: time_table
