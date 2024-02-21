@@ -90,6 +90,17 @@
     - year: 2018
       items:
         - Best DH Blog Post or Series of Posts of <a href="http://dhawards.org/dhawards2017/results/">the DH Awards</a> for Programming Historian 
+
+- title: Invited Talks
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - “Recovering, Analyzing and Circulating (Audio)Culture through Digital Methods. An Introduction for RSA.” Rhetorical Studies Association Summer Institute, State College, PA, May 25-27
+    - year: 2022
+      items: 
+        - “De leer novelas a modelar datos sobre productos culturales, trayectorias varias por las Humanidades Digitales.” Keynote speaker at the Fifth Conference of the Argentinian DH Association, Füskü Menuko, Argentina, November 17
+        - “Programming Historian, A Collaborative Project to Put Programming within the Reach of Humanists.” Talk for the Language Technologies and Ontologies course at the University of Mondragón, Spain, November 14
     
 - title: Academic Interests
   type: nested_list
