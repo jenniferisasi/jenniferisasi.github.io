@@ -75,16 +75,16 @@
     - title: Modernist Text Digitization Project
       year: 2017
       description: Archivist and Metadata Curator. Directed by Dr. José Eduardo González, University of Nebraska-Lincoln, USA
-- title: Honors and Awards
+- title: Grants and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best DH Training Materials category of the DH Awards for Programming Historian. 
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Open Content category award in the <a href="https://openpublishingawards.org">Open Publishing Award 2021</a> by the Coko Foundation for Programming Historian.
+        - Acknowledgment on <a href="https://adamcrymble.org/awards/">The Crymble Awards</a>
 
 - title: Academic Interests
   type: nested_list
