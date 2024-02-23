@@ -1,34 +1,43 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Quiroga":
+  - firstname: ["Riva"]
+    url: https://rivaquiroga.cl
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Siddiqui":
+  - firstname: ["Nabeel"]
+    url: https://orcid.org/0000-0002-6126-5833
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Vieira Paulino":
+  - firstname: ["Joana"]
+    url: https://orcid.org/0000-0002-9433-2799
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Wermer-Colan": 
+  - firstname: ["Alex"]
+    url: https://orcid.org/0000-0001-7030-6070
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Iruskieta":
+  - firstname: ["Mikel"]
+    url: http://ixa2.si.ehu.es/iruskieta/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Lorenzo":
+  - firstname: ["Lola"]
+    url: https://modlang.unl.edu/dr-lola-lorenzo
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Velázquez":
+  - firstname: ["Isabel"]
+    url: https://modlang.unl.edu/dr-isabel-vel%C3%A1zquez
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Rojas Castro": 
+  - firstname: ["Antonio"]
+    url: https://hcommons.org/members/arojascastro1987/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Lincoln":
+  - firstname: ["Matthew"]
+    url: https://matthewlincoln.net
+  
+"Laramée":
+  - firstname: ["François Dominic"]
+    url: https://fdlaramee.weebly.com
+
+"Rio Riande":
+  - firstname: ["Gimena del"]
+    url: https://orcid.org/0000-0002-8997-5415 
