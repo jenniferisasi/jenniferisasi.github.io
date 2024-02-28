@@ -117,7 +117,7 @@
         - Description 1.
         - Description 2.
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Intermediate R for Text Analysis, Data Cleaning and Data Visualization (dplyr, rtweet, ggpraph, rbokeh, plotly, syuzhet, etc.). Github (Jekyll, Wax), Omeka, WordPress, Gephi, OCR/Abbyy, TEI, Dublin Core, XML/XSTL, CSS, HTML, Wikipedia Editing, Markdown, LaTeX, Zotero. Familiarity with GIS standards and NLP processing. WCAG standards. Knightlab’s and Esri’s StoryMapping Tools. Windows and Macintosh.
