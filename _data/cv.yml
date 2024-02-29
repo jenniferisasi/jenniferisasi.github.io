@@ -108,6 +108,15 @@
       items:
         - “Your Text Analysis is Fantastic, but I Can’t Replicate it in Spanish, Let Me Take a Few Steps Back to Learn/Teach Methods for a Less Prominent Language.“ DH@UVA Speaker Series, VA, Dec 1
         - “Programming Historian. Un proyecto colaborativo para poner la programación al alcance de los humanistas” with Dr. Riva Quiroga. Webinarios de la red INTELE-Infraestructura de Tecnologías del Lenguaje, Spain, March 25
+    - year: 2020
+      items: 
+        - “A pilot experiment for multilingual DH contexts. Sentiment Analysis in Translation.” New Voices in DH at the OU Humanities Forum, Oklahoma City, OK, Oct. 22-23
+    - year: 2019
+      items: 
+        - “A Name Entity Recognition and Extraction Method for Mid-Distance Reading in Spanish“ Digital Humanities Beyond Modern English, Computational Approaches to Premodern and Non-Western Literature, Part I, Hanover, NH, April 24-25
+    - year: 2017
+      items: “Towards a Methodology for the Analysis of Character Systems/Networks in the Spanish Novel: The case of Pérez Galdós’ Zumalacárregui and Mendizábal.” Works in Progress & DH Dialogues, University of Nebraska-Lincoln, Lincoln, NE, September 18
+      
 - title: Academic Interests
   type: nested_list
   contents:
