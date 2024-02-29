@@ -96,15 +96,18 @@
   contents:
     - year: 2024
       items:
-        - An Exploratory Data Analysis of Space in Spanish-Language Literature. With Dr. Joshua Ortiz Baco, at DIGIT 210 Text Analysis taught by Dr. Elisa Beshero-Bondar, Penn State Erie, PA, Feb 28 
+        - “An Exploratory Data Analysis of Space in Spanish-Language Literature.“ With Dr. Joshua Ortiz Baco, at DIGIT 210 Text Analysis taught by Dr. Elisa Beshero-Bondar, Penn State Erie, PA, Feb 28 
     - year: 2023
       items:
-        - Recovering, Analyzing and Circulating (Audio)Culture through Digital Methods. An Introduction for RSA. Rhetorical Studies Association Summer Institute, State College, PA, May 25-27
+        - “Recovering, Analyzing and Circulating (Audio)Culture through Digital Methods.“ An Introduction for RSA. Rhetorical Studies Association Summer Institute, State College, PA, May 25-27
     - year: 2022
       items: 
-        - De leer novelas a modelar datos sobre productos culturales, trayectorias varias por las Humanidades Digitales. Keynote speaker at the Fifth Conference of the Argentinian DH Association, Füskü Menuko, Argentina, November 17
-        - Programming Historian, A Collaborative Project to Put Programming within the Reach of Humanists. Talk for the Language Technologies and Ontologies course at the University of Mondragón, Spain, November 14
-    
+        - “De leer novelas a modelar datos sobre productos culturales, trayectorias varias por las Humanidades Digitales.“ Keynote speaker at the Fifth Conference of the Argentinian DH Association, Füskü Menuko, Argentina, November 17
+        - “Programming Historian, A Collaborative Project to Put Programming within the Reach of Humanists“. Talk for the Language Technologies and Ontologies course at the University of Mondragón, Spain, November 14
+    - year: 2021
+      items:
+        - “Your Text Analysis is Fantastic, but I Can’t Replicate it in Spanish, Let Me Take a Few Steps Back to Learn/Teach Methods for a Less Prominent Language.“ DH@UVA Speaker Series, VA, Dec 1
+        - “Programming Historian. Un proyecto colaborativo para poner la programación al alcance de los humanistas” with Dr. Riva Quiroga. Webinarios de la red INTELE-Infraestructura de Tecnologías del Lenguaje, Spain, March 25
 - title: Academic Interests
   type: nested_list
   contents:
