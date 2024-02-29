@@ -115,7 +115,8 @@
       items: 
         - “A Name Entity Recognition and Extraction Method for Mid-Distance Reading in Spanish“ Digital Humanities Beyond Modern English, Computational Approaches to Premodern and Non-Western Literature, Part I, Hanover, NH, April 24-25
     - year: 2017
-      items: “Towards a Methodology for the Analysis of Character Systems/Networks in the Spanish Novel: The case of Pérez Galdós’ Zumalacárregui and Mendizábal.” Works in Progress & DH Dialogues, University of Nebraska-Lincoln, Lincoln, NE, September 18
+      items: 
+        - “Towards a Methodology for the Analysis of Character Systems/Networks in the Spanish Novel, The case of Pérez Galdós’ Zumalacárregui and Mendizábal.” Works in Progress & DH Dialogues, University of Nebraska-Lincoln, Lincoln, NE, September 18
       
 - title: Academic Interests
   type: nested_list
