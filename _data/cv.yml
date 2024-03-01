@@ -117,6 +117,22 @@
     - year: 2017
       items: 
         - “Towards a Methodology for the Analysis of Character Systems/Networks in the Spanish Novel, The case of Pérez Galdós’ Zumalacárregui and Mendizábal.” Works in Progress & DH Dialogues, University of Nebraska-Lincoln, Lincoln, NE, September 18
+
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - “An Exploratory Data Analysis of Space in Spanish-Language Literature” with J. Ortiz-Baco at MLA2024, Philadelphia, PA January 4
+    - year: 2023
+      items: 
+        - “LeShow as Data. An Exploratory Analsysis” at CAS 2023 Summer Symposium, State College, PA, August 2
+        - “Digital (Humanities) Trace Data. Critical Approaches to Platforms, APIs, and Metrics for Studying DH Communities” panel organizer and presenter with R. Quiroga at ACH2023, July 1
+    - year: 2022
+      items:
+        - “In Which Languages Are We Citing When We Write About humanidades digitales? A study of References in Academic Articles” with Gimena del Rio Riande. DHUnbound 2022, May 17-19
+        - “Literary Analysis of Spanish-language Novels with NLP and Character-level Metadata“ at Digital Humanities Beyond Modern English, Computational Analysis of Premodern and Non-Western Literature, Austin, TX, April 8
+
       
 - title: Academic Interests
   type: nested_list
