@@ -132,8 +132,20 @@
       items:
         - “In Which Languages Are We Citing When We Write About humanidades digitales? A study of References in Academic Articles” with Gimena del Rio Riande. DHUnbound 2022, May 17-19
         - “Literary Analysis of Spanish-language Novels with NLP and Character-level Metadata“ at Digital Humanities Beyond Modern English, Computational Analysis of Premodern and Non-Western Literature, Austin, TX, April 8
-
-      
+    - year: 2021
+      items:
+        - “Leveraging Computational Methods for Comparing Low-Prestige Translations” with L.S. Bessette, K. Bowers, Q. Dombrowski, M. Gorshkova, I. Gribomont, C. Hodrick, M. Massucco, C. Wagner, E. Elbaz, O.O. Bantjes-Rafols. Poster at EADH2021, Krasnoyarsk, Russia, September 23
+    - year: 2020
+      items:
+        - “Distinción de géneros literarios a través de la visualización de redes de personajes. El caso de diez Episodios nacionales de Pérez Galdós.” Poster at *NoviembreHD* by the Asociación Argentina de Humanidades Digitales, virtual, November 5
+    - year: 2019
+      items: 
+        - “The Programming Historian en español. De la traducción a la creación de recursos educativos abiertos“ with A. Rojas Castro. IV Congreso Internacional de la Asociación de Humanidades Digitales Hispánicas, Universidad de Toledo, Spain, October 24
+        - “Sentiment Analysis Methods in Translation.“ Digital Frontiers 2019. Tear Down the Walls, The University of Texas at Austin, TX, September 26-28
+        - “Retos en la producción de tutoriales de HD en contextos hispanohablantes“ with M.J. Afanador-Lllach and A. Rojas-Castro. ACH 2019 Conference, Pittsburg, PA, July 23-26
+        - “Overcoming Challenges and Breaking Down Barriers. Digital Scholarship Support Within and Beyond the University“ round table with Starry, Rachel L.; Dodson, Heidi; Young, Chris J.; Wermer-Colan, Alex; Slayton, Emma. ACH 2019 Conference, Pittsburg, PA, July 23-26
+        - “Spanish Colonialism in the Indigenous Borderlands. Collaborative Digital Scholarship in the Undergraduate Classroom“ with A. Palacios. LASA 2019, Boston, MA, May 27
+        
 - title: Academic Interests
   type: nested_list
   contents:
