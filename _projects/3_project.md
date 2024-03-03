@@ -27,7 +27,7 @@ Y ¿quiénes son los autores más traducidos? No es sorpresa que destaquen Berna
 
 Kepler también nos permite ver la evolución de nuestra red de traducciones a lo largo del tiempo. En este caso, y como es normal por la trayectoria de la literatura en euskera y la historia del País Vasco en general, el número de traducciones ha ido aumentando hacia finales de la década de los 90 y, sobre todo, a partir del año 2000. 
 
-<iframe src="https://dr.jenniferisasi.com/assets/img/euskal_literatura/euskal_literatura.mov" width="50%" heigth="100%" > </iframe>
+<iframe src="/assets/img/euskal_literatura/euskal-lit-map.html" width="50%" heigth="100%" > </iframe>
 Una visualización geográfica nos permite observar la expansión de la literatura por el planeta. No obstante, ello invisibiliza la labor de autores y traductores en tanto que sus nombres no aparecen - se pueden mostrar pero no aportan nada más que una gran cantidad de letras que impiden su lectura. Para observar quién traduce a quién, y cuánto, una visualización de red es mucho más adecuada. Así, vemos que Bernardo Atxaga es el más traducido según nuestros datos y, curiosamente, se traduce al castellano a sí mismo (línea rosa junto a su nodo). 
 
 
