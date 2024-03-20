@@ -250,6 +250,22 @@
         - Primary instructor of “Accelerated Second Year of Spanish“ in Fall 2013.
         - Primary instructor of “Second Year of Spanish II“ in Spring and Summer 2013-2014.
         - Primary instructor of Spanish I, Spanish II, Spanish III, in 2011-2012.
+
+- title: Fellowships
+  type: time_table
+  contents:
+    - year: 2018 - 2020
+      items:
+        - Council on Library and Information Resources Postdoctoral Fellowship Program
+    - year: 2016 - 2017
+      items: 
+        - Graduate Research Assistantship at The Center for Digital Research in the Humanities for Ph.D. Studies, University of Nebraska-Lincoln
+    - year: 2012-2017
+      items: 
+        - George Rogers Memorial Merit Fellowship, University of Nebraska-Lincoln
+    - year: 2011 - 2016
+      items:
+        - Graduate Teaching Assistantship for M.A. and Ph.D. Studies, University of Nebraska-Lincoln
       
 - title: Service and Leadership
   type: nested_list
