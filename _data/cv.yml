@@ -216,7 +216,41 @@
       items: 
         - “An Introduction to Digital Humanities and the Graduate Certificate at UNL.” Digital Humanities Modern Languages & Literatures Colloquium Series, University of Nebraska-Lincoln, Lincoln, NE, March 19.
 
-        
+- title: Teaching Experience
+  type: nested_list
+  contents:
+    - title: Udako Euskal Unibertsitatea, Spain
+      items:
+        - Design and teaching of 1ECTS course in 2021-2022.
+        - “Antropologia eta historiografia digitala” in Humanitate Digitalak Aukeraberriak ikertzen, 2021-2022.
+    - title: University of Texas at Austin, USA
+      items:
+        - Co-Instructor for Digital Scholarship, Undergraduate Courses in Fall 2018.
+        - “Spanish Colonialism in the Indigenous Borderlands,” by Kelly McDonough, Ph.D.
+        - “Rethinking the Conquest of Mexico,” by Susan Deans-Smith, Ph.D.
+    - title: University of Nebraska at Kearney, USA
+      items:
+        - Design and teaching of full courses in Spring 2018.
+        - “Foundations of Literacy,” “Commercial Spanish,” “Intermediate Spanish I,” “Beginning Spanish I.”
+    - title: University of Deusto, Spain
+      items: 
+        - Design and teaching of full courses.
+        - “Teaching Resources for the Classroom, Emphasis on New Technologies, Spanish Language and Culture for Teachers” in Summer 2018.
+        - “Spanish II or A2” in Summers 2015, 2016 and 2018.
+    - title: University of Nebraska-Lincoln, USA
+      items: 
+        - Lead Instructor at the Spanish Tutoring and Writing Center, 2014-2016.
+        - Teaching Assistant in “Don Quijote,” with Dr. Pereira Zazo, Fall 2017.
+        - Teaching Assistant in “Exploring Hispanic Culture of Spain,” Fall 2016.
+        - Teaching Assistant in “Introduction to the Digital Analysis,“ of Hispanic Culture,with Dr. Pereira Zazo, Spring 2015.
+        - Primary instructor of “Analysis of Communication in Spanish,” Spring 2015, Fall 2015, and Spring 2016.
+        - Primary instructor of “Advanced Writing in Spanish, Fall 2014.
+        - Spanish Coordinator for the Basic Language Program, Summer 2014.
+        - Primary instructor of “Intensive Writing,“ and “Intensive Conversation“ in Spring 2014.
+        - Primary instructor of “Accelerated Second Year of Spanish“ in Fall 2013.
+        - Primary instructor of “Second Year of Spanish II“ in Spring and Summer 2013-2014.
+        - Primary instructor of Spanish I, Spanish II, Spanish III, in 2011-2012.
+      
 - title: Service and Leadership
   type: nested_list
   contents:
