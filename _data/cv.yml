@@ -172,7 +172,52 @@
       items: 
         - “Resultado de la ruptura de la realidad en el personaje de Abelarda en *Miau* de Benito Pérez Galdós.” 2012 Mid-America Conference on Hispanic Literature. University of Nebraska-Lincoln, Lincoln, NE, October 14
       
-- title: Academic Interests
+- title: Workshops and Presentations for Students
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - “Zotero. The Best Friend to Your Bibliography.” DLA Workshop Series, Penn State Univeristy, virtual format, January 31.
+    - year: 2023
+      items:
+        - “Zotero. The Best Friend to Your Bibliography.” DLA Workshop Series, Penn State Univeristy, virtual format, March 22.
+        - “Crear una exhibición digital mínima e interactiva con CollectionBuilder.” Herramientas y procesos digitales para la investigación y creación en artes y humanidades at Universidad de los Andes, virtual format, February 9th and 10th.
+    - year: 2022
+      items:
+        - “Collection Builder” in the inaugural Compartir Pantalla by the Hispanic Digital Humanities Association, online, November 8th.
+        - “When Global is Local. Multilingualism, Diversity, and Representation in Digital Humanities and Humanidades Digitales” with Dr. Gimena del Rio Riande at FORCE11 Scholarly Communications Institute (FSCI) 2022, virtual format, July 26-28.
+        - “El flujo editorial en Programming Historian en español.” Invited talk to Edición Digital de Textos course taught by Dr. Rojas Castro at Máster Universitario en Humanidades Digitales, Universidad Internacional de La Rioja.
+    - year: 2021
+      items:
+        - “Exhibición digital mínima e interactiva con CollectionBuilder.” For A. Mellon Summer Workshop Series for the Latin American Digital Initiatives, UT Austin, TX, August 20.
+        - “Recuperating and circulating history through (digital) humanities project.” For The Post World War II Civil Rights Movement course (AFAM 465) at PSU, in preparation for a project.
+    - year: 2020
+      items: 
+        - “(Culture in) English is Not a Synonym for DH. Una humanista digital en EE.UU.” Invited talk on Minimal Digital Editions, course co-taught by Drs. Gimena del Rio Riande at CONICET- Argentina and Raff Viglianti at MITH-University of Maryland.
+        - “On-the-Fly Text Analysis with Voyant Tools.” Reading from a Distance series at Penn State University, October 7.
+    - year: 2019
+      items:  
+        - “Multilingual Sentiment Analysis with R.” University of Texas Libraries’ “Digital Humanities Workshops at PCL” Series. The University of Texas at Austin, Austin, TX, February 13.
+        - “Archivos post-custodiales y humanidades digitales.” Interview for course on digital editions by Dr. Antonio Rojas Castro at University of La Rioja, Spain.
+    - year: 2018
+      items:
+        - “Topic Modeling Violence in Guatemala,” co-taught with J. Ortiz-Baco. Mellon-NEH funded project “Post-Custodial Archival Development and Digital Scholarship. Learning from Latin America.” The University of Texas at Austin, Austin, TX, September 26.
+        - “Digital Pedagogies.” DH Bootcamp 2018. University of Nebraska-Lincoln, Lincoln, NE, April 13.
+    - year: 2017
+      items: 
+        - “Minimal Archiving” with S. Camerone. DH Bootcamp 2017. University of Nebraska Lincoln, Lincoln, NE, April 6.
+    - year: 2016
+      items:
+        - “Visualization Basics. A Workshop.” DH Bootcamp 2016. University of Nebraska Lincoln, Lincoln, NE, April 7.
+    - year: 2015
+      items: 
+        - “Literary Text Analysis with R. A Beginners Workshop.” Creighton University, Omaha, NE, April 7.
+    - year: 2014
+      items: 
+        - “An Introduction to Digital Humanities and the Graduate Certificate at UNL.” Digital Humanities Modern Languages & Literatures Colloquium Series, University of Nebraska-Lincoln, Lincoln, NE, March 19.
+
+        
+- title: Service and Leadership
   type: nested_list
   contents:
     - title: Topic 1.
@@ -183,6 +228,7 @@
       items:
         - Description 1.
         - Description 2.
+        
 
 - title: Skills
   type: list
