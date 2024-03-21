@@ -177,6 +177,7 @@
   contents:
     - year: 2024
       items:
+        - “An Exploratory Data Analysis of Space in Spanish-Language Literature” with J. Ortiz-Baco for DIGIT 210/Text Analysis by Dr. Elisa Beshero-Bondar, Penn State Erie, February 28.
         - “Zotero. The Best Friend to Your Bibliography.” DLA Workshop Series, Penn State Univeristy, virtual format, January 31.
     - year: 2023
       items:
@@ -270,16 +271,52 @@
 - title: Service and Leadership
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Editorial and Committee Member
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - 2021-2025. Executive Council Representative on The Association for Computers and the Humanities.
+        - 2022-Present. Publicaciones de la Asociación Argentina de Humanidades Digitales.
+        - 2018-Present. Programming Historian en español.
+    - title: Manuscript and Proposal Review
       items:
-        - Description 1.
-        - Description 2.
-        
-
+        - 2024. Philologia-Hispalensis.
+        - 2023. Digital Humanities Quarterly; Journal of the TEI; Programming Historian en español.
+        - 2022. International Journal of Humanities and Arts Computing; Revista de Humanidades Digitales; Las Humanidades Digitales en América Latina (book series).
+        - 2021. Scholarly Editing; Asociación Argentina de Humanidades Digitales.
+        - 2020. Journal of Cultural Analytics; Revista de Humanidades Digitales; Interdisciplinary Science Reviews; Unbound, A Journal of Digital Scholarship.
+        - 2019. Digital Scholarship in the Humanities.
+        - 2018. Revista de Humanidades Digitales.
+    - title: Grants, Program and Scholarship Reviews.
+      items:
+        - 2023. DH Institutes, Division of Preservation & Access, National Endowment for the Humanities.
+        - 2021. American Rescue Plan, Organizations Program, Division of Preservation & Access, National Endowment for the Humanities.
+        - 2021. SONATA 16, The National Science Centre, Poland.
+        - 2020. Research and Development Grant, Division of Preservation & Access, National Endowment for the Humanities.
+        - 2020. CLIR Postdoctoral Fellowship
+    - title: Abstract Review
+      items:
+        - 2024. Global Digital Humanities Symposium 2024 at MSU.
+        - 2023. LatinR; Association for Computers and the Humanities 2023 Conference; Global Digital Humanities Symposium 2023 at MSU.
+        - 2022. DHUnbound 2022; Global Digital Humanities Symposium 2022 at MSU.
+        - 2021. European Association for Digital Humanities 2021.
+        - 2020. Digital Humanities 2020.
+        - 2019. Digital Frontiers 2019 Conference; Association for Computers and the Humanities 2019 Conference.
+    - title: Community Service
+      items: 
+        - 2022-Present. Social-Media and Content Co-Manager for the Latin Festival in Happy Valley, State College
+    - title: Selected University Service
+      items:
+        - 2024-Present. Committee Member, “Moments of Change. Immigration, Identity, and Citizenship.” College of Liberal Arts, Pennsylvania State University.
+        - 2021-Present. Douglass Day Team Member
+        - 2018-2020. Digital Scholarship Consultation for LLILAS Benson Latin American Studies and Collections
+        - 2019. Leader, Digitization and digital scholarship training at Museo de la Palabra y la Imagen, San Salvador, El Salvador, June 10-13.
+        - 2019. Organizer, Chicana Activists & Indigenous Languages Wikipedia Edit-a-thon, University of Texas Libraries.
+        - 2017. Co-organizer, Women’s Writes Wikipedia Edit-a-thon, The University of Nebraska Libraries.
+        - 2016-2017. Co-organizer and presenter, DH Bootcamp, Digital Humanities Student Association (DHSA).
+        - 2015-2016. Active Member and Web developer, Digital Humanities Student Association (DHSA).
+        - 2014-2016. Active Member, Nebraska Literary Lab.
+        - 2013-2016. Faculty Leader, Summer in Bilbao, Study Abroad Programs, Dept. of Modern Languages & Literatures, The University of Nebraska-Lincoln.
+        - 2014-2016. Online journal developer and editor, Tu revista, Spanish Tutoring and Writing Center, Dept. of Modern Languages & Literatures, The University of Nebraska-Lincoln.
+        - 2013-2015 Organizer and presenter, Spanish Cineclub, monthly movie reviews for students of Spanish, Dept. of Modern Languages & Literatures, The University of Nebraska-Lincoln.
 - title: Skills
   type: list
   contents:
