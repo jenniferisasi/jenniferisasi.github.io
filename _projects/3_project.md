@@ -7,7 +7,7 @@ importance: 3
 category: fun
 ---
 
-La Universidad del País Vasco ofrece, en abierto, un [catálogo de las traducciones de la literatura en euskera](https://www.ehu.eus/ehg/eli/?z=bila&m=osorik) a otros idiomas recopilado por [Elizabete Manterola](http://istres.letras.ulisboa.pt/manterola/) hacia 2012 para su tesis. La base de datos recoge 1.595 entradas en total, con datos como el título y autor/a original de la obra, su fecha de publicación, editoriales, traductores, idioma de la traducción, etc. Se trata, por tanto, de un corpus muy rico que permite explorar al interesado en la literatura en euskera bastantes variables. 
+La Universidad del País Vasco ofrece, en abierto, un [catálogo de las traducciones de la literatura en euskera](https://www.ehu.eus/ehg/eli/?z=bila&m=osorik) a otros idiomas recopilado por Elizabete Manterola hacia 2012 para su tesis. La base de datos recoge 1.595 entradas en total, con datos como el título y autor/a original de la obra, su fecha de publicación, editoriales, traductores, idioma de la traducción, etc. Se trata, por tanto, de un corpus muy rico que permite explorar al interesado en la literatura en euskera bastantes variables. 
 
 Yo, por curiosidad, decidí realizar unas visualizaciones para ver la extensión de la literatura vasca por el mundo, así como la red de autores y traductores que se ha formado a lo largo de los años. Para ello, he ampliado la base de datos con cuatro columnas de coordenadas (la latitud y longitud del lugar de publicación original y las mismas para el lugar de publicación de la traducción). 
 
@@ -38,14 +38,15 @@ A 10 de noviembre de 2019 (fecha en que he realizado este mapa) la función de e
 
 Para saber más sobre la euskal literatura en traducción, puedes consultar las siguientes referencias: 
 
+- [Basque.Books](https://basquebooks.eus/en) 
 - Auzmendi, Lurdes. "El reconocimiento de la traducción literaria en lengua vasca en España". XXXIII *Encuentros de Escritores y Críticos en Verines Creadores en la sombra. La traducción literaria en la actualidad*, 2017
 
-- López Gaseni, José Manuel. "Literatura traducida." *Portal de Literatura Vasca*. http://www.basqueliterature.com/es/basque/historia/itzulia 
+- López Gaseni, José Manuel. "Literatura traducida." *Portal de Literatura Vasca*. 
 
 - López Gaseni, Jose Manuel (2000) *Euskarara itzulitako haur eta gazte literatura: funtzioak, eraginak eta itzulpen-estrategiak*. Bilbao: Universidad del País Vasco.
 
 - Manterola Agirrezabalaga, Elizabete. 2014. «Una mirada hacia la traducción literaria del euskera al castellano». *Hermeneus: Revista de la Facultad de Traducción e Interpretación de Soria*, n. 16: 177–208.
 
-- —. 2014. *La literatura vasca traducida*. Bern/New York: Peter Lang.
+- -. 2014. *La literatura vasca traducida*. Bern/New York: Peter Lang.
 
 - Pérez Isasi, Santiago. La literatura vasca en el contexto de los Estudios Ibéricos: Historiografía y traducción. *1616: Anuario de Literatura Comparada*, 4, 2014, pp. 107-126.
