@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: jenniferisasi # your GitHub user name
-bluesky_url: https://bsky.app/profile/jenniferisasi.bsky.social # your bluesky URL
+bluesky_url: jenniferisasi.bsky.social # your bluesky URL
 gitlab_username: # your GitLab user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: jennifer-isasi-007975101 # your LinkedIn user name
