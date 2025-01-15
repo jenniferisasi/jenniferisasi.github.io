@@ -37,12 +37,9 @@ I will definitely incorporate this activity in other teaching spaces, adapting i
 As I like doing, I modeled the exercise with some of my own data as well, sharing it in narrative form and trying to contextualize the information in connection to the course.
 
 
-| Name           | Pronouns     | Country of origin | # of languages | Languages                | Years in the US | Degree                   | Graduation year | Institution                    | Current Title(s)                                                                                                 | Hobby #1 | Hobby #2 | Hobby #3 | ?   |
-| -------------- | ------------ | ----------------- | -------------- | ------------------------ | --------------- | ------------------------ | --------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------- | -------- | -------- | -------- | --- |
-| Jennifer Isasi | she/her/ella | Spain             | 3              | Spanish, English, Basque | 13              | Hispanic Studies with DH | 2017            | University of Nebraska-Lincoln | Assistant Research Professor of Digital Scholarship and Director of the Digital Liberal Arts Research Initiative | Dancing  | Stories  | LEGO     | ?   |
-|                |              |                   |                |                          |                 |                          |                 |                                |                                                                                                                  |          |          |          |     |
-
-
+| Name | Pronouns | Country of origin | # of languages | Languages | Years in the US | Degree | Graduation Year |  Current Title(s) | Hobby #1 | Hobby #2 | Hobby #3 | ? |
+| :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :----------- | :-----------| 
+| Jennifer Isasi| she/her/ella | Spain | 3 | Spanish, English, Basque | 13 | Hispanic Studies with DH | 2017 | Assistant Research Professor of Digital Scholarship and Director of the Digital Liberal Arts Research Initiative | Dancing  | Stories  | LEGO | ?   |
 
 
 
