@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Day of Foundations in DH: We Data"
-date: 2025-01-16 11:00:00-0100
+date: 2025-01-15 04:00:00-0100
 description: a summary of a first day of class
 tags:
   - icebreaking
@@ -9,7 +9,7 @@ tags:
 categories: course
 giscus_comments: false
 related_posts: false
-related_publications: true
+related_publications: false
 ---
 
 Finally! This semester I am teaching a Digital Humanities course for graduate students at PSU called "Foundations in DH". In a series of blog-posts that I hope to write regularly and inspired by the writing of my friend [Dr. Walsh](https://walshbr.com) I will share my experience and thoughts throughout the semester.
