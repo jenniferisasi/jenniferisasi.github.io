@@ -76,6 +76,9 @@
 - title: Grants and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - “Database of American Authorship, 1860-1920“ Co-PI with M. Anesko as PI. Center for Social Data Analytics Accelerator Award. Award $11,000
     - year: 2022
       items:
         - Best DH Training Materials category of the DH Awards for Programming Historian
