@@ -129,6 +129,10 @@
 - title: Conference Presentations
   type: time_table
   contents:
+    - year: 2025
+      items: 
+        - “El Simposio Global DH. Un espacio para compartir” at SemanaHD 2025, online, November 5
+        - “Programming Historian. Escribe, traduce, revisa” at SemanaHD 2025, online, November 3
     - year: 2024
       items:
         - “Enhancing Programming Historian Multilingual Reach. Creating a Semi-Automated Multilingual DH Vocabulary Table” with M. Gille Levenson, C. Ringwald, M. Flesch, S. Papastamkou, R. Quiroga and D. Valentine at ACH2024, USA, online, November 6
