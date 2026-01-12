@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Research Professor of Digital Scholarship
+subtitle: Associate Research Professor of Digital Scholarship
 
 profile:
   align: right
@@ -14,7 +14,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Dr. Jennifer Isasi is an Assistant Research Professor of Digital Scholarship at The Pennsylvania State University. She is the Director of the Digital Liberal Arts Research Initiative and Assistant Director of the [Office of Digital Pedagogies and Initiatives](https://digital.la.psu.edu). This position establishes a research support hub to articulate and integrate digital research in projects in the humanities and social sciences. She also collaborates with the [Center for Black Digital Research](https://digblk.psu.edu) at PSU Libraries to organize hybrid events, provide training, and assist with [Douglass Day](https://douglassday.org).
+Dr. Jennifer Isasi is an Associate Research Professor of Digital Scholarship at The Pennsylvania State University. She is the Director of the Digital Liberal Arts Research Initiative and Assistant Director of the [Office of Digital Pedagogies and Initiatives](https://digital.la.psu.edu). This position establishes a research support hub to articulate and integrate digital research in projects in the humanities and social sciences. She also collaborates with the [Center for Black Digital Research](https://digblk.psu.edu) at PSU Libraries to organize hybrid events, provide training, and assist with [Douglass Day](https://douglassday.org).
 
 Jennifer is also a member of the editorial board of the open access journal *[Programming Historian](https://programminghistorian.org)*, where she currently serves as the Managing Editor of *Programming Historian en español* with editing, translations and original lessons. Driven by her willingness to learn more skills on website creation and management, Jennifer is also a member of the Technical Team. 
 
