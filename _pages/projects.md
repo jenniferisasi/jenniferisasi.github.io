@@ -6,7 +6,7 @@ description: A growing collection of my research, collaborations, and for fun pr
 nav: true
 nav_order: 3
 display_categories: [research, collaborations, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
