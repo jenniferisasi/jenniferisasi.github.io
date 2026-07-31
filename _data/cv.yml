@@ -200,6 +200,9 @@
 - title: Workshops and Presentations for Students
   type: time_table
   contents:
+    - year: 2026
+      items: 
+        - “Translating Digital Humanities Methods. Approaches from the Programming Historian“ with A. Wermer-Colan, L. Chapot and C. Mello, at DH202, online, July 27.
     - year: 2024
       items:
         - “An Exploratory Data Analysis of Space in Spanish-Language Literature” with J. Ortiz-Baco for DIGIT 210/Text Analysis by Dr. Elisa Beshero-Bondar, Penn State Erie, February 28.
